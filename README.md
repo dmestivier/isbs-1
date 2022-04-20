@@ -13,7 +13,6 @@ Chaque groupe doit valider le nom ici entré :
 
 
 
-| ------------- | -------------      | ---        |
 | Group_id      | code_name          | Validation |
 | ------------- | -------------      | ---        |
 | G1            | LesIndestructibles |            |
