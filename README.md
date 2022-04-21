@@ -19,7 +19,7 @@ Chaque groupe doit valider le nom ici entré :
 | G2            | InSilico           |            |
 | G3            | LesViperes         |            |
 | G4            | L'InfoSite         |            |
-| G5            | MatriCells         |            |
+| G5            | MatriCells         |    OUI        |
 | G6            | PyzoPlasmes        |            |
 | G7            | XAEA-12            |            |
 | G8            | TheComputerSpies   |    OUI     |
