@@ -21,5 +21,5 @@ Chaque groupe doit valider le nom ici entré :
 | G4            | L'InfoSite         |            |
 | G5            | MatriCells         |            |
 | G6            | PyzoPlasmes        |            |
-| G7            | XAEA-12            |            |
+| G7            | XAEAXII            |    OUI     |
 | G8            | TheComputerSpies   |            |
