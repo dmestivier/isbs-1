@@ -22,4 +22,4 @@ Chaque groupe doit valider le nom ici entré :
 | G5            | MatriCells         |            |
 | G6            | PyzoPlasmes        |            |
 | G7            | XAEA-12            |            |
-| G8            | TheComputerSpies   |            |
+| G8            | TheComputerSpies   |    OUI     |
