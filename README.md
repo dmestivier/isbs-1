@@ -15,11 +15,11 @@ Chaque groupe doit valider le nom ici entré :
 
 | Group_id      | code_name          | Validation |
 | ------------- | -------------      | ---        |
-| G1            | LesIndestructibles |            |
+| G1            | LesIndestructibles |    OUI     |
 | G2            | InSilico           |            |
 | G3            | LesViperes         |OUI         |
 | G4            | L'InfoSite         |            |
 | G5            | MatriCells         |            |
 | G6            | PyzoPlasmes        |            |
 | G7            | XAEAXII            |    OUI     |
-| G8            | TheComputerSpies   |            |
+| G8            | TheComputerSpies   |      OUI   |
