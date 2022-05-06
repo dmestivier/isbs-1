@@ -19,7 +19,9 @@ Chaque groupe doit valider le nom ici entré :
 | G2            | InSilico           |    OUI     |
 | G3            | LesViperes         |OUI         |
 | G4            | L'InfoSite         |            |
-| G5            | MatriCells         |    OUI        |
-| G6            | PyzoPlasmes        |    OUI        |
+| G5            | MatriCells         |    OUI     |
+| G6            | PyzoPlasmes        |    OUI     |
 | G7            | XAEAXII            |    OUI     |
 | G8            | TheComputerSpies   |      OUI   |
+
+*Conclusion* : chaque groupe a validé son nom.
