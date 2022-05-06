@@ -1,10 +1,6 @@
 # ISBS-1 / Projets
 
-## Paragraphe à lire
-
-Le code est _physarum_
-
-# Noms de code des groupes
+## Noms de code des groupes
 
 Chaque groupe doit valider le nom ici entré :
 
@@ -25,3 +21,7 @@ Chaque groupe doit valider le nom ici entré :
 | G8            | TheComputerSpies   |      OUI   |
 
 *Conclusion* : chaque groupe a validé son nom.
+
+## Fichiers pour le TP BLAST
+
+Tous les fichiers nécessaires au TP/BLAST sont dans le répertoire `./Genomics`.
