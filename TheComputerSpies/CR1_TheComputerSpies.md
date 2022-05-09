@@ -37,7 +37,7 @@ Puis 4 couleurs (via Colors - word Colors) : le Fuschia, bleu, saumon et rose fo
 la méthode de dessin (drawing method dans options) choisie était "circles" avec un word Margin à 6.
 
 
-### Résultat :
+## Résultat :
 
 Grâce à toutes les méthodes présentées précédemment, nous avons pu obtenir une figure regroupant nos différents mots clés.
 
