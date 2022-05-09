@@ -1,12 +1,12 @@
-#Compte Rendu 1
+# Compte Rendu 1
 
-##Objectif : 
+## Objectif : 
 
 L'objectif de notre TP était l'extraction des mots clés associés à l'organisme Physarum polycephalum (le blob) 
 issus des articles trouvés sur Pubmed afin de construire un "Worldcloud" de ces mots clés.
 
 
-##Méthode :
+## Méthode :
 
 La procédure suivi pour construire notre Worldcloud était la suivante :
  
@@ -37,7 +37,7 @@ Puis 4 couleurs (via Colors - word Colors) : le Fuschia, bleu, saumon et rose fo
 la méthode de dessin (drawing method dans options) choisie était "circles" avec un word Margin à 6.
 
 
-###Résultat :
+### Résultat :
 
 Grâce à toutes les méthodes présentées précédemment, nous avons pu obtenir une figure regroupant nos différents mots clés.
 
