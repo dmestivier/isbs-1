@@ -1,10 +1,6 @@
 # ISBS-1 / Projets
 
-## Paragraphe à lire
-
-Le code est _physarum_
-
-# Noms de code des groupes
+## Noms de code des groupes
 
 Chaque groupe doit valider le nom ici entré :
 
@@ -16,10 +12,16 @@ Chaque groupe doit valider le nom ici entré :
 | Group_id      | code_name          | Validation |
 | ------------- | -------------      | ---        |
 | G1            | LesIndestructibles |    OUI     |
-| G2            | InSilico           |            |
+| G2            | InSilico           |    OUI     |
 | G3            | LesViperes         |OUI         |
 | G4            | L'InfoSite         |            |
-| G5            | MatriCells         |            |
-| G6            | PyzoPlasmes        |            |
+| G5            | MatriCells         |    OUI     |
+| G6            | PyzoPlasmes        |    OUI     |
 | G7            | XAEAXII            |    OUI     |
 | G8            | TheComputerSpies   |      OUI   |
+
+*Conclusion* : chaque groupe a validé son nom.
+
+## Fichiers pour le TP BLAST
+
+Tous les fichiers nécessaires au TP/BLAST sont dans le répertoire `./Genomics`.

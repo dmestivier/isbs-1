@@ -1,0 +1,781 @@
+LOCUS       ATCM03152636            2518 bp    DNA     linear   INV 24-JUN-2014
+DEFINITION  Physarum polycephalum, whole genome shotgun sequence.
+ACCESSION   ATCM03152636 ATCM03000000
+VERSION     ATCM03152636.1
+DBLINK      BioProject: PRJNA12851
+            BioSample: SAMN02839457
+KEYWORDS    WGS.
+SOURCE      Physarum polycephalum
+  ORGANISM  Physarum polycephalum
+            Eukaryota; Amoebozoa; Mycetozoa; Myxogastria; Myxogastromycetidae;
+            Physariida; Physaraceae; Physarum.
+REFERENCE   1  (bases 1 to 2518)
+  AUTHORS   Schaap,P., Barrantes,I., Minx,P., Sasaki,N., Anderson,R.W.,
+            Benard,M., Biggar,K.K., Buchler,N.E., Bundschuh,R., Chen,X.,
+            Fronick,C., Fulton,L., Golderer,G., Jahn,N., Knoop,V.,
+            Landweber,L.F., Maric,C., Miller,D., Noegel,A.A., Peace,R.,
+            Pierron,G., Sasaki,T., Schallenberg-Rudinger,M., Schleicher,M.,
+            Singh,R., Spaller,T., Storey,K.B., Suzuki,T., Tomlinson,C.,
+            Tyson,J.J., Warren,W.C., Werner,E.R., Werner-Felmayer,G.,
+            Wilson,R.K., Winckler,T., Gott,J.M., Glockner,G. and Marwan,W.
+  TITLE     The Physarum polycephalum Genome Reveals Extensive Use of
+            Prokaryotic Two-Component and Metazoan-Type Tyrosine Kinase
+            Signaling
+  JOURNAL   Genome Biol Evol 8 (1), 109-125 (2015)
+   PUBMED   26615215
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 2518)
+  AUTHORS   Wilson,R.K., Gott,J., Benard,M., Pierron,G. and Minx,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2013) The Genome Institute, Washington University
+            School of Medicine, 4444 Forest Park, St. Louis, MO 63108, USA
+REFERENCE   3  (bases 1 to 2518)
+  AUTHORS   Wilson,R.K., Gott,J., Benard,M., Pierron,G., Minx,P., Chen,X. and
+            Landweber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-2014) The Genome Institute, Washington University
+            School of Medicine, 4444 Forest Park, St. Louis, MO 63108, USA
+COMMENT     
+             Background:
+             The Physarum polycephalum genomic DNA was extracted from axenic,
+            haploid amoebal cells (strain LU352 developed in Jennifer Dee's
+            laboratory, Leicester University). Cell culturing and DNA sampling
+            was carried out by Gerard Pierron and Marianne Benard (Institut
+            Andre Lwoff, Villejuif, France).
+             Total assembled sequence coverage of Roche 454 instrument reads
+            was 54.6X (fragments, 3kb, and 8kb), and the  genome spanned over
+            190Mb. The combined sequence reads were assembled using the Newbler
+            software, version 2.6 (Life Technologies, Roche). The Newbler
+            assembled contigs were scaffolded using Bambus v2.3 (Pop et al
+            2004), and a transcriptome-guided scaffolding algorithm (X. Chen
+            and L. Landweber, Department of Ecology and Evolutionary Biology,
+            Princeton University). This draft assembly was referred to as
+            Physarum polycephalum 10.0. In this version the assembly has been
+            cleaned of contaminating contigs. All scaffolds of at least 200
+            bases were retained for submission to the public databases. The
+            assembly is made up of a total of 69,709 scaffolds with an N50
+            scaffold length of nearly 54kb (N50 contig length was 2.2kb).
+            
+              The National Human Genome Research Institute (NHGRI), National
+            Institutes of Health (NIH) have provided the Genome Institute at
+            Washington University School of Medicine funding for sequence and
+            characterization of the Physarum polycephalum genome. The
+            individual reads for this project are available from the NCBI trace
+            archive.
+            
+              For questions regarding this Physarum polycephalum 10.0 assembly
+            please contact Patrick Minx, Washington University School of
+            Medicine (pminx@genome.wustl.edu).
+            
+             Credits:
+             Physarum polycephalum project planning - Sandie Baldauf
+            (University of York, UK), Gernot Gloeckner (Leibniz-Institute of
+            Freshwater Ecology and Inland Fisheries, DE), Jonatha Gott (Case
+            Western Reserve University, Cleveland, USA), Eggehard Holler
+            (University of Regensburg, Germany), Laura Landweber (Princeton
+            University), Wolfgang Marwan (University of Hertfordshire, UK),
+            Gerard Pierron (Institut Andre Lwoff, Villjuif, France), Pauline
+            Schaap (University of Dundee, UK), and Georg Golderer, Stefan
+            Leitner, Ernst R. Werner, Gabriele Werner-Felmayer (University of
+            Innsbruck, Austria)
+             DNA source - Gerard Pierron, Marianne Benard, Institut Andre
+            Lwoff, Villejuif, France.
+             Sequencing - The Genome Institute, Washington University School of
+            Medicine, St Louis, MO.
+             Sequence assembly - The Genome Institute, Washington University
+            School of Medicine, St Louis, MO; Landweber Lab, Princeton
+            University, Princeton, New Jersey.
+            
+              Citation upon use of this assembly in a manuscript:
+             It is requested that users of this Physarum polycephalum 10.0
+            sequence assembly acknowledge Richard K. Wilson and The Genome
+            Institute, Washington University School of Medicine in any
+            publications that result from use of this sequence assembly.
+            
+             Assembly 10.0 stats:
+             *** Contiguity: Contig *** Total contig number: 152662 Total
+            contig bases: 189980644 bp Average contig length: 1244 bp Maximum
+            contig length: 74487 bp N50 contig length: 2244 bp N50 contig
+            number: 22124
+             *** Contiguity: Supercontig *** Total supercontig number: 69709
+            Average supercontig length: 2725 bp Maximum supercontig length:
+            611099 bp N50 supercontig length: 53844 bp N50 supercontig number:
+            777
+             *** Scaffold Distribution *** Scaffolds > 1M: 0 Scaffold 250K--1M:
+            48 Scaffold 100K--250K: 335 Scaffold 10--100K: 2289 Scaffold
+            5--10K: 1988 Scaffold 2--5K: 3436 Scaffold 0--2K: 61613
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: ALLPATHS v. March 2014
+            Assembly Name         :: Physarum_polycephalum-10.0
+            Genome Coverage       :: 55x
+            Sequencing Technology :: Roche 454
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2518
+                     /organism="Physarum polycephalum"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="Physarum_polycephalum-10.0-69704.1"
+                     /strain="LU352"
+                     /db_xref="taxon:5791"
+ORIGIN      
+        1 gggggaagga ggggaggagg ggaggagggg gaggggggag gaggaggagg ggaggagggg
+       61 aggggggagg aggagggagg aggggagggg aggggaaggg gggaaaagga aggaggaggg
+      121 aggggaggag ggtaggtcta atcatatgtc caaataccac gacaggctgg cccccccaca
+      181 cacttagaga taaaaaattg aaaaaaatta ttttaaacta ctaaaaatat tccaagaaaa
+      241 caacatcttt tggatttttg agtttgatgt tgtcatgaca gagcatgtgg aattacgtgt
+      301 tttgggcttg tcgtgccacg tcacaacaaa atccaaaaat tattttatac aaaatttttt
+      361 tgggatattt attaaatagt aataatggga agtgatattt tcattttgac acgatgaaaa
+      421 tatgaaaagt tatgacctta ccgatattac atatattttt ttggaaaatt ttttatattt
+      481 tttttcattt ttttgcataa taatttggag aaaaatatac taccaaatat ccaatggtag
+      541 tagacaattt cgatggttac aaaaaaaaat aaattttttt ttcatgtttt tcaagttttc
+      601 catacaacgt tgtgatagtg ttgcaacgtc gcaatgcatc gcactggact gtgcacgttg
+      661 cagcatttca aaagtgttgt ggcattgctg gagctgtgct cacaatgccc cttggtactt
+      721 tactaattag tacctagggg catcttttgt gggttttctt ttttttacac actgtggcgg
+      781 agtgtagtgc ttcgtctaca caattttacc atctaggagg agggtagggg gagaagggag
+      841 gggagaagaa ggagggaagg aggggagggg gagtagaggg gggagtagag ggaaaagaag
+      901 agagggggag tagaggaaag gagaagaggg ggagtagagg ggggagtaga gggaaaggag
+      961 gagaggaggg gaggggaggg gaggggaggg gaggagggat gaggggaggg gggagcagag
+     1021 ggagggggga gggagggagt agaggggagg ggggaaaggg agggggaagg ataggtctaa
+     1081 tcgtatgtcc aaataccatg acgggctggc cccaccacac acttaaagat aaaaaattaa
+     1141 aaaaattatt ttaaactact aaaaatattc caagaaaaca acatcttttg gatttttgag
+     1201 tttgacattt tcatgatgga gtacgtggaa ttatgtgttt tggacttgtt gtgatatgtc
+     1261 atgacaaaat cccaaaaatt attttttccc aaaaaaatcc aaattttttt ttttgggata
+     1321 tttaccaaat agtaataatg ggaagtgata ttttcatttt gatacgatga aaatatgaaa
+     1381 agttatgacc ttaccaatgt tacatacatt ttttttttga cagtcacaaa aaaaaataaa
+     1441 ttttttttag tgtttttcaa gttttctata catttttttc aaaaaaatac ttttacaaac
+     1501 aatacatgat aattagcata aaaatctact gattatttta ctgtattgct tgaaattatt
+     1561 tcaagcaata cagaaaaaga tatcgcaaaa atgcaatgtg ttgtaacaca tgaatcaatc
+     1621 atgatacatc acaacgtcgc aatgcacaat atagtgctca tacaacgcaa cgtcacgatc
+     1681 acattgtgac attgtgatgt gtcacgctag actgcatgtg ttgtgggatt tcaaaagcat
+     1741 catggcagct ccatagctgc catgcatgct ttgcgtccat gatgcctctt ggtacttcac
+     1801 taatagtacc taggagcatc ttttgcgagt tttctttttt tttacacact gtgatagagt
+     1861 ggagtgctcc atccacatgt ttttaccata caattagacc tacggggaag gagggagggg
+     1921 gaaggaagaa tggagggggg aggaaggagg agggggaaag gaagggggag aaaggaagag
+     1981 aggggggatt atacctgagc agtttcaata gagcttctta aatccttttg catttgaatc
+     2041 cactgttggg tggccccagg gcacttggga gtaacaagat tgggattaga atacccagct
+     2101 aaaataataa tattaaatac aataaaaatg cttctttaca tcattgtgcc tccttccatt
+     2161 atagaaaggg tggagggggg agggggagca aaattggaca aaacaaaatt tagtaactag
+     2221 taaaaaattc aattttttta ctactatttt ttggattttt tgacatttaa aaaatgacac
+     2281 aaaaatcatt ggacaaagta aaaaaacagt ttttttaggc ataatcattg agatttaggc
+     2341 ctaaacatgc aatctaaaag acatgtattt taaataaata atactcacaa ctaaaaataa
+     2401 tttttacata tttttatctg agacaggctt tcctaaaaat tttcttttta gaacaagtgt
+     2461 ttacttacag gagggagagg gagggggagg ggagggggag agggagaggg agggggtt
+//
+LOCUS       ATCM03152637             656 bp    DNA     linear   INV 24-JUN-2014
+DEFINITION  Physarum polycephalum, whole genome shotgun sequence.
+ACCESSION   ATCM03152637 ATCM03000000
+VERSION     ATCM03152637.1
+DBLINK      BioProject: PRJNA12851
+            BioSample: SAMN02839457
+KEYWORDS    WGS.
+SOURCE      Physarum polycephalum
+  ORGANISM  Physarum polycephalum
+            Eukaryota; Amoebozoa; Mycetozoa; Myxogastria; Myxogastromycetidae;
+            Physariida; Physaraceae; Physarum.
+REFERENCE   1  (bases 1 to 656)
+  AUTHORS   Schaap,P., Barrantes,I., Minx,P., Sasaki,N., Anderson,R.W.,
+            Benard,M., Biggar,K.K., Buchler,N.E., Bundschuh,R., Chen,X.,
+            Fronick,C., Fulton,L., Golderer,G., Jahn,N., Knoop,V.,
+            Landweber,L.F., Maric,C., Miller,D., Noegel,A.A., Peace,R.,
+            Pierron,G., Sasaki,T., Schallenberg-Rudinger,M., Schleicher,M.,
+            Singh,R., Spaller,T., Storey,K.B., Suzuki,T., Tomlinson,C.,
+            Tyson,J.J., Warren,W.C., Werner,E.R., Werner-Felmayer,G.,
+            Wilson,R.K., Winckler,T., Gott,J.M., Glockner,G. and Marwan,W.
+  TITLE     The Physarum polycephalum Genome Reveals Extensive Use of
+            Prokaryotic Two-Component and Metazoan-Type Tyrosine Kinase
+            Signaling
+  JOURNAL   Genome Biol Evol 8 (1), 109-125 (2015)
+   PUBMED   26615215
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 656)
+  AUTHORS   Wilson,R.K., Gott,J., Benard,M., Pierron,G. and Minx,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2013) The Genome Institute, Washington University
+            School of Medicine, 4444 Forest Park, St. Louis, MO 63108, USA
+REFERENCE   3  (bases 1 to 656)
+  AUTHORS   Wilson,R.K., Gott,J., Benard,M., Pierron,G., Minx,P., Chen,X. and
+            Landweber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-2014) The Genome Institute, Washington University
+            School of Medicine, 4444 Forest Park, St. Louis, MO 63108, USA
+COMMENT     
+             Background:
+             The Physarum polycephalum genomic DNA was extracted from axenic,
+            haploid amoebal cells (strain LU352 developed in Jennifer Dee's
+            laboratory, Leicester University). Cell culturing and DNA sampling
+            was carried out by Gerard Pierron and Marianne Benard (Institut
+            Andre Lwoff, Villejuif, France).
+             Total assembled sequence coverage of Roche 454 instrument reads
+            was 54.6X (fragments, 3kb, and 8kb), and the  genome spanned over
+            190Mb. The combined sequence reads were assembled using the Newbler
+            software, version 2.6 (Life Technologies, Roche). The Newbler
+            assembled contigs were scaffolded using Bambus v2.3 (Pop et al
+            2004), and a transcriptome-guided scaffolding algorithm (X. Chen
+            and L. Landweber, Department of Ecology and Evolutionary Biology,
+            Princeton University). This draft assembly was referred to as
+            Physarum polycephalum 10.0. In this version the assembly has been
+            cleaned of contaminating contigs. All scaffolds of at least 200
+            bases were retained for submission to the public databases. The
+            assembly is made up of a total of 69,709 scaffolds with an N50
+            scaffold length of nearly 54kb (N50 contig length was 2.2kb).
+            
+              The National Human Genome Research Institute (NHGRI), National
+            Institutes of Health (NIH) have provided the Genome Institute at
+            Washington University School of Medicine funding for sequence and
+            characterization of the Physarum polycephalum genome. The
+            individual reads for this project are available from the NCBI trace
+            archive.
+            
+              For questions regarding this Physarum polycephalum 10.0 assembly
+            please contact Patrick Minx, Washington University School of
+            Medicine (pminx@genome.wustl.edu).
+            
+             Credits:
+             Physarum polycephalum project planning - Sandie Baldauf
+            (University of York, UK), Gernot Gloeckner (Leibniz-Institute of
+            Freshwater Ecology and Inland Fisheries, DE), Jonatha Gott (Case
+            Western Reserve University, Cleveland, USA), Eggehard Holler
+            (University of Regensburg, Germany), Laura Landweber (Princeton
+            University), Wolfgang Marwan (University of Hertfordshire, UK),
+            Gerard Pierron (Institut Andre Lwoff, Villjuif, France), Pauline
+            Schaap (University of Dundee, UK), and Georg Golderer, Stefan
+            Leitner, Ernst R. Werner, Gabriele Werner-Felmayer (University of
+            Innsbruck, Austria)
+             DNA source - Gerard Pierron, Marianne Benard, Institut Andre
+            Lwoff, Villejuif, France.
+             Sequencing - The Genome Institute, Washington University School of
+            Medicine, St Louis, MO.
+             Sequence assembly - The Genome Institute, Washington University
+            School of Medicine, St Louis, MO; Landweber Lab, Princeton
+            University, Princeton, New Jersey.
+            
+              Citation upon use of this assembly in a manuscript:
+             It is requested that users of this Physarum polycephalum 10.0
+            sequence assembly acknowledge Richard K. Wilson and The Genome
+            Institute, Washington University School of Medicine in any
+            publications that result from use of this sequence assembly.
+            
+             Assembly 10.0 stats:
+             *** Contiguity: Contig *** Total contig number: 152662 Total
+            contig bases: 189980644 bp Average contig length: 1244 bp Maximum
+            contig length: 74487 bp N50 contig length: 2244 bp N50 contig
+            number: 22124
+             *** Contiguity: Supercontig *** Total supercontig number: 69709
+            Average supercontig length: 2725 bp Maximum supercontig length:
+            611099 bp N50 supercontig length: 53844 bp N50 supercontig number:
+            777
+             *** Scaffold Distribution *** Scaffolds > 1M: 0 Scaffold 250K--1M:
+            48 Scaffold 100K--250K: 335 Scaffold 10--100K: 2289 Scaffold
+            5--10K: 1988 Scaffold 2--5K: 3436 Scaffold 0--2K: 61613
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: ALLPATHS v. March 2014
+            Assembly Name         :: Physarum_polycephalum-10.0
+            Genome Coverage       :: 55x
+            Sequencing Technology :: Roche 454
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..656
+                     /organism="Physarum polycephalum"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="Physarum_polycephalum-10.0-69705.1"
+                     /strain="LU352"
+                     /db_xref="taxon:5791"
+ORIGIN      
+        1 aagagagaga gaagagagaa gagaagagag agagaggaga gagagaagaa agaggagaga
+       61 gagaagaaag aggagagaga gaagagcgag aagagagaga agagagagaa gagagagaga
+      121 agagagagag aagagagaag agaagagagg agaggagaga agagagaaga gaagagaaga
+      181 gagaagagaa gagagaagag aagagagaag agaagagaga agagaagaga gaagagaaga
+      241 gaagagaaga gagaaaagag aagagaagag agaaggagag gagaaagaga ggagagagaa
+      301 gagaagagaa agaagagaag agagagagag gagagagaga gagagagaga gagagagaga
+      361 gagaagaaga agaagaagaa ggaagaagaa gaagaagaag aagaagaaga agaagaagaa
+      421 gaagaagaag aagaagaaga agaagaagaa gaagaagaag aagaagaaga agaagaagaa
+      481 gaagaagaag aagaagaaga agaagaagaa gaagagagag agagagagag agagagagag
+      541 agagagagag agagagagag agagagagag agagagagag agagagagag agagagagag
+      601 agagagagag agagagagag agagagagag agagagagag agagagagag agagag
+//
+LOCUS       ATCM03152638            1032 bp    DNA     linear   INV 24-JUN-2014
+DEFINITION  Physarum polycephalum, whole genome shotgun sequence.
+ACCESSION   ATCM03152638 ATCM03000000
+VERSION     ATCM03152638.1
+DBLINK      BioProject: PRJNA12851
+            BioSample: SAMN02839457
+KEYWORDS    WGS.
+SOURCE      Physarum polycephalum
+  ORGANISM  Physarum polycephalum
+            Eukaryota; Amoebozoa; Mycetozoa; Myxogastria; Myxogastromycetidae;
+            Physariida; Physaraceae; Physarum.
+REFERENCE   1  (bases 1 to 1032)
+  AUTHORS   Schaap,P., Barrantes,I., Minx,P., Sasaki,N., Anderson,R.W.,
+            Benard,M., Biggar,K.K., Buchler,N.E., Bundschuh,R., Chen,X.,
+            Fronick,C., Fulton,L., Golderer,G., Jahn,N., Knoop,V.,
+            Landweber,L.F., Maric,C., Miller,D., Noegel,A.A., Peace,R.,
+            Pierron,G., Sasaki,T., Schallenberg-Rudinger,M., Schleicher,M.,
+            Singh,R., Spaller,T., Storey,K.B., Suzuki,T., Tomlinson,C.,
+            Tyson,J.J., Warren,W.C., Werner,E.R., Werner-Felmayer,G.,
+            Wilson,R.K., Winckler,T., Gott,J.M., Glockner,G. and Marwan,W.
+  TITLE     The Physarum polycephalum Genome Reveals Extensive Use of
+            Prokaryotic Two-Component and Metazoan-Type Tyrosine Kinase
+            Signaling
+  JOURNAL   Genome Biol Evol 8 (1), 109-125 (2015)
+   PUBMED   26615215
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 1032)
+  AUTHORS   Wilson,R.K., Gott,J., Benard,M., Pierron,G. and Minx,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2013) The Genome Institute, Washington University
+            School of Medicine, 4444 Forest Park, St. Louis, MO 63108, USA
+REFERENCE   3  (bases 1 to 1032)
+  AUTHORS   Wilson,R.K., Gott,J., Benard,M., Pierron,G., Minx,P., Chen,X. and
+            Landweber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-2014) The Genome Institute, Washington University
+            School of Medicine, 4444 Forest Park, St. Louis, MO 63108, USA
+COMMENT     
+             Background:
+             The Physarum polycephalum genomic DNA was extracted from axenic,
+            haploid amoebal cells (strain LU352 developed in Jennifer Dee's
+            laboratory, Leicester University). Cell culturing and DNA sampling
+            was carried out by Gerard Pierron and Marianne Benard (Institut
+            Andre Lwoff, Villejuif, France).
+             Total assembled sequence coverage of Roche 454 instrument reads
+            was 54.6X (fragments, 3kb, and 8kb), and the  genome spanned over
+            190Mb. The combined sequence reads were assembled using the Newbler
+            software, version 2.6 (Life Technologies, Roche). The Newbler
+            assembled contigs were scaffolded using Bambus v2.3 (Pop et al
+            2004), and a transcriptome-guided scaffolding algorithm (X. Chen
+            and L. Landweber, Department of Ecology and Evolutionary Biology,
+            Princeton University). This draft assembly was referred to as
+            Physarum polycephalum 10.0. In this version the assembly has been
+            cleaned of contaminating contigs. All scaffolds of at least 200
+            bases were retained for submission to the public databases. The
+            assembly is made up of a total of 69,709 scaffolds with an N50
+            scaffold length of nearly 54kb (N50 contig length was 2.2kb).
+            
+              The National Human Genome Research Institute (NHGRI), National
+            Institutes of Health (NIH) have provided the Genome Institute at
+            Washington University School of Medicine funding for sequence and
+            characterization of the Physarum polycephalum genome. The
+            individual reads for this project are available from the NCBI trace
+            archive.
+            
+              For questions regarding this Physarum polycephalum 10.0 assembly
+            please contact Patrick Minx, Washington University School of
+            Medicine (pminx@genome.wustl.edu).
+            
+             Credits:
+             Physarum polycephalum project planning - Sandie Baldauf
+            (University of York, UK), Gernot Gloeckner (Leibniz-Institute of
+            Freshwater Ecology and Inland Fisheries, DE), Jonatha Gott (Case
+            Western Reserve University, Cleveland, USA), Eggehard Holler
+            (University of Regensburg, Germany), Laura Landweber (Princeton
+            University), Wolfgang Marwan (University of Hertfordshire, UK),
+            Gerard Pierron (Institut Andre Lwoff, Villjuif, France), Pauline
+            Schaap (University of Dundee, UK), and Georg Golderer, Stefan
+            Leitner, Ernst R. Werner, Gabriele Werner-Felmayer (University of
+            Innsbruck, Austria)
+             DNA source - Gerard Pierron, Marianne Benard, Institut Andre
+            Lwoff, Villejuif, France.
+             Sequencing - The Genome Institute, Washington University School of
+            Medicine, St Louis, MO.
+             Sequence assembly - The Genome Institute, Washington University
+            School of Medicine, St Louis, MO; Landweber Lab, Princeton
+            University, Princeton, New Jersey.
+            
+              Citation upon use of this assembly in a manuscript:
+             It is requested that users of this Physarum polycephalum 10.0
+            sequence assembly acknowledge Richard K. Wilson and The Genome
+            Institute, Washington University School of Medicine in any
+            publications that result from use of this sequence assembly.
+            
+             Assembly 10.0 stats:
+             *** Contiguity: Contig *** Total contig number: 152662 Total
+            contig bases: 189980644 bp Average contig length: 1244 bp Maximum
+            contig length: 74487 bp N50 contig length: 2244 bp N50 contig
+            number: 22124
+             *** Contiguity: Supercontig *** Total supercontig number: 69709
+            Average supercontig length: 2725 bp Maximum supercontig length:
+            611099 bp N50 supercontig length: 53844 bp N50 supercontig number:
+            777
+             *** Scaffold Distribution *** Scaffolds > 1M: 0 Scaffold 250K--1M:
+            48 Scaffold 100K--250K: 335 Scaffold 10--100K: 2289 Scaffold
+            5--10K: 1988 Scaffold 2--5K: 3436 Scaffold 0--2K: 61613
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: ALLPATHS v. March 2014
+            Assembly Name         :: Physarum_polycephalum-10.0
+            Genome Coverage       :: 55x
+            Sequencing Technology :: Roche 454
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..1032
+                     /organism="Physarum polycephalum"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="Physarum_polycephalum-10.0-69706.1"
+                     /strain="LU352"
+                     /db_xref="taxon:5791"
+ORIGIN      
+        1 aaagggggaa aggggaaaag gaaaggggaa aggggaaaag gaaaggggaa aggggaaaag
+       61 gaaaggggaa aggaaatgaa gggaaggaaa agaaagaaaa aggaagggaa agggacaaga
+      121 aaagaaatac tcattaactt gtagttgaac ctgccactta taaatcaact tgaaatcaac
+      181 aaaaagagac ttccatgagg ggtgaaagga aagaaaagga agggaaggag aaaaaaggaa
+      241 ggaagggaat ggagggaaag ggacaagaaa agaaaaaaag gaagggaaag aagaaaaggg
+      301 gaagggaaaa taaaactcat taatttgtag ttgaacctgc cactaatcaa tcaacttgaa
+      361 accaacaaaa agagactcac catgagggta cacactttta tttccttttc cttttctatt
+      421 ctttttccct tttctctttc cctttctcct ttttctttcc ttttttctct ttcctttttt
+      481 ctctttcctt ttttctcttt ccttttttct ctttcctttt tctctttcct tttttctctt
+      541 tccttttttt ctctttcctt tttttctctt tccttttttt ctctttcctt tttttctctt
+      601 tccttttttt ctctttcctt tttttctctt tccttttttt ctctttcctt tttttctctt
+      661 tccttttttt ctctttcctt ttttttctct ttcctttttc tctttctctt tcttttttct
+      721 tttttctctt tccttcttct cttttctttt ttctctttcc ttttcctctt tcctttttat
+      781 ctttcctttt tatctttcct ttttatcttt cctttttatc tttccttttt atcgtctctt
+      841 tttttccgct tcctttgcgc atgaatttag tactaataca ttgaagggaa ctatgaaagt
+      901 tccatacatt gaggaccaat taggaccagg tacggttcca aaatgggaaa gcccctacga
+      961 cacaactcac ggagatgtag gtatcatttt cttcgttttt tttttttttt ttttttttga
+     1021 gtctttgttt cg
+//
+LOCUS       ATCM03152639             733 bp    DNA     linear   INV 24-JUN-2014
+DEFINITION  Physarum polycephalum, whole genome shotgun sequence.
+ACCESSION   ATCM03152639 ATCM03000000
+VERSION     ATCM03152639.1
+DBLINK      BioProject: PRJNA12851
+            BioSample: SAMN02839457
+KEYWORDS    WGS.
+SOURCE      Physarum polycephalum
+  ORGANISM  Physarum polycephalum
+            Eukaryota; Amoebozoa; Mycetozoa; Myxogastria; Myxogastromycetidae;
+            Physariida; Physaraceae; Physarum.
+REFERENCE   1  (bases 1 to 733)
+  AUTHORS   Schaap,P., Barrantes,I., Minx,P., Sasaki,N., Anderson,R.W.,
+            Benard,M., Biggar,K.K., Buchler,N.E., Bundschuh,R., Chen,X.,
+            Fronick,C., Fulton,L., Golderer,G., Jahn,N., Knoop,V.,
+            Landweber,L.F., Maric,C., Miller,D., Noegel,A.A., Peace,R.,
+            Pierron,G., Sasaki,T., Schallenberg-Rudinger,M., Schleicher,M.,
+            Singh,R., Spaller,T., Storey,K.B., Suzuki,T., Tomlinson,C.,
+            Tyson,J.J., Warren,W.C., Werner,E.R., Werner-Felmayer,G.,
+            Wilson,R.K., Winckler,T., Gott,J.M., Glockner,G. and Marwan,W.
+  TITLE     The Physarum polycephalum Genome Reveals Extensive Use of
+            Prokaryotic Two-Component and Metazoan-Type Tyrosine Kinase
+            Signaling
+  JOURNAL   Genome Biol Evol 8 (1), 109-125 (2015)
+   PUBMED   26615215
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 733)
+  AUTHORS   Wilson,R.K., Gott,J., Benard,M., Pierron,G. and Minx,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2013) The Genome Institute, Washington University
+            School of Medicine, 4444 Forest Park, St. Louis, MO 63108, USA
+REFERENCE   3  (bases 1 to 733)
+  AUTHORS   Wilson,R.K., Gott,J., Benard,M., Pierron,G., Minx,P., Chen,X. and
+            Landweber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-2014) The Genome Institute, Washington University
+            School of Medicine, 4444 Forest Park, St. Louis, MO 63108, USA
+COMMENT     
+             Background:
+             The Physarum polycephalum genomic DNA was extracted from axenic,
+            haploid amoebal cells (strain LU352 developed in Jennifer Dee's
+            laboratory, Leicester University). Cell culturing and DNA sampling
+            was carried out by Gerard Pierron and Marianne Benard (Institut
+            Andre Lwoff, Villejuif, France).
+             Total assembled sequence coverage of Roche 454 instrument reads
+            was 54.6X (fragments, 3kb, and 8kb), and the  genome spanned over
+            190Mb. The combined sequence reads were assembled using the Newbler
+            software, version 2.6 (Life Technologies, Roche). The Newbler
+            assembled contigs were scaffolded using Bambus v2.3 (Pop et al
+            2004), and a transcriptome-guided scaffolding algorithm (X. Chen
+            and L. Landweber, Department of Ecology and Evolutionary Biology,
+            Princeton University). This draft assembly was referred to as
+            Physarum polycephalum 10.0. In this version the assembly has been
+            cleaned of contaminating contigs. All scaffolds of at least 200
+            bases were retained for submission to the public databases. The
+            assembly is made up of a total of 69,709 scaffolds with an N50
+            scaffold length of nearly 54kb (N50 contig length was 2.2kb).
+            
+              The National Human Genome Research Institute (NHGRI), National
+            Institutes of Health (NIH) have provided the Genome Institute at
+            Washington University School of Medicine funding for sequence and
+            characterization of the Physarum polycephalum genome. The
+            individual reads for this project are available from the NCBI trace
+            archive.
+            
+              For questions regarding this Physarum polycephalum 10.0 assembly
+            please contact Patrick Minx, Washington University School of
+            Medicine (pminx@genome.wustl.edu).
+            
+             Credits:
+             Physarum polycephalum project planning - Sandie Baldauf
+            (University of York, UK), Gernot Gloeckner (Leibniz-Institute of
+            Freshwater Ecology and Inland Fisheries, DE), Jonatha Gott (Case
+            Western Reserve University, Cleveland, USA), Eggehard Holler
+            (University of Regensburg, Germany), Laura Landweber (Princeton
+            University), Wolfgang Marwan (University of Hertfordshire, UK),
+            Gerard Pierron (Institut Andre Lwoff, Villjuif, France), Pauline
+            Schaap (University of Dundee, UK), and Georg Golderer, Stefan
+            Leitner, Ernst R. Werner, Gabriele Werner-Felmayer (University of
+            Innsbruck, Austria)
+             DNA source - Gerard Pierron, Marianne Benard, Institut Andre
+            Lwoff, Villejuif, France.
+             Sequencing - The Genome Institute, Washington University School of
+            Medicine, St Louis, MO.
+             Sequence assembly - The Genome Institute, Washington University
+            School of Medicine, St Louis, MO; Landweber Lab, Princeton
+            University, Princeton, New Jersey.
+            
+              Citation upon use of this assembly in a manuscript:
+             It is requested that users of this Physarum polycephalum 10.0
+            sequence assembly acknowledge Richard K. Wilson and The Genome
+            Institute, Washington University School of Medicine in any
+            publications that result from use of this sequence assembly.
+            
+             Assembly 10.0 stats:
+             *** Contiguity: Contig *** Total contig number: 152662 Total
+            contig bases: 189980644 bp Average contig length: 1244 bp Maximum
+            contig length: 74487 bp N50 contig length: 2244 bp N50 contig
+            number: 22124
+             *** Contiguity: Supercontig *** Total supercontig number: 69709
+            Average supercontig length: 2725 bp Maximum supercontig length:
+            611099 bp N50 supercontig length: 53844 bp N50 supercontig number:
+            777
+             *** Scaffold Distribution *** Scaffolds > 1M: 0 Scaffold 250K--1M:
+            48 Scaffold 100K--250K: 335 Scaffold 10--100K: 2289 Scaffold
+            5--10K: 1988 Scaffold 2--5K: 3436 Scaffold 0--2K: 61613
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: ALLPATHS v. March 2014
+            Assembly Name         :: Physarum_polycephalum-10.0
+            Genome Coverage       :: 55x
+            Sequencing Technology :: Roche 454
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..733
+                     /organism="Physarum polycephalum"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="Physarum_polycephalum-10.0-69707.1"
+                     /strain="LU352"
+                     /db_xref="taxon:5791"
+ORIGIN      
+        1 gccatccctc gtcccccccc cccccctttt tcacgtttat ttgttctaca ggttattccc
+       61 caatcgcagt tgtacccgct tcttacttgc ccttctggcg ttgcaggtaa aattgataaa
+      121 taaatactga attttacaaa aaaaaaaaaa aaaaaaaaaa aaggaaagaa aaaggaaaga
+      181 aaaaaagaaa aggaagaaaa aaaaatcaaa cgtgcagtaa aaaaagggtg acaaaataaa
+      241 attttaaaaa aagcccaaaa ccgtggctgc gcactttttc taacgtttat cagttggtac
+      301 gggaacaggt ttgactggag actattttga tgggagcaga agcgacccct ttcaaaatta
+      361 ccgcctaacc cgggtcgact caaccatcaa tttcgatttc tcactggtta ttttttcatt
+      421 gctttttttt cccgaatttt ttcgttagct cgttttaaaa ctatcgagct cactaatttt
+      481 tttggaaaac cctcccattt gctggataaa aaataatgct aatcatgcta aaatataaaa
+      541 aataataata atagaccaaa agctaatttt tttggtaggg ctcaccagcg ccaggaatca
+      601 ccccagattt tttcggaata cgatggaccg ggcaaattca gccactaaac acagcggact
+      661 acacttttta catagcatcg gacgatgggt ctcgtctttc cataaatggc cagcttatta
+      721 ttgacaattg ggt
+//
+LOCUS       ATCM03152640            5191 bp    DNA     linear   INV 24-JUN-2014
+DEFINITION  Physarum polycephalum, whole genome shotgun sequence.
+ACCESSION   ATCM03152640 ATCM03000000
+VERSION     ATCM03152640.1
+DBLINK      BioProject: PRJNA12851
+            BioSample: SAMN02839457
+KEYWORDS    WGS.
+SOURCE      Physarum polycephalum
+  ORGANISM  Physarum polycephalum
+            Eukaryota; Amoebozoa; Mycetozoa; Myxogastria; Myxogastromycetidae;
+            Physariida; Physaraceae; Physarum.
+REFERENCE   1  (bases 1 to 5191)
+  AUTHORS   Schaap,P., Barrantes,I., Minx,P., Sasaki,N., Anderson,R.W.,
+            Benard,M., Biggar,K.K., Buchler,N.E., Bundschuh,R., Chen,X.,
+            Fronick,C., Fulton,L., Golderer,G., Jahn,N., Knoop,V.,
+            Landweber,L.F., Maric,C., Miller,D., Noegel,A.A., Peace,R.,
+            Pierron,G., Sasaki,T., Schallenberg-Rudinger,M., Schleicher,M.,
+            Singh,R., Spaller,T., Storey,K.B., Suzuki,T., Tomlinson,C.,
+            Tyson,J.J., Warren,W.C., Werner,E.R., Werner-Felmayer,G.,
+            Wilson,R.K., Winckler,T., Gott,J.M., Glockner,G. and Marwan,W.
+  TITLE     The Physarum polycephalum Genome Reveals Extensive Use of
+            Prokaryotic Two-Component and Metazoan-Type Tyrosine Kinase
+            Signaling
+  JOURNAL   Genome Biol Evol 8 (1), 109-125 (2015)
+   PUBMED   26615215
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 5191)
+  AUTHORS   Wilson,R.K., Gott,J., Benard,M., Pierron,G. and Minx,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2013) The Genome Institute, Washington University
+            School of Medicine, 4444 Forest Park, St. Louis, MO 63108, USA
+REFERENCE   3  (bases 1 to 5191)
+  AUTHORS   Wilson,R.K., Gott,J., Benard,M., Pierron,G., Minx,P., Chen,X. and
+            Landweber,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-JUN-2014) The Genome Institute, Washington University
+            School of Medicine, 4444 Forest Park, St. Louis, MO 63108, USA
+COMMENT     
+             Background:
+             The Physarum polycephalum genomic DNA was extracted from axenic,
+            haploid amoebal cells (strain LU352 developed in Jennifer Dee's
+            laboratory, Leicester University). Cell culturing and DNA sampling
+            was carried out by Gerard Pierron and Marianne Benard (Institut
+            Andre Lwoff, Villejuif, France).
+             Total assembled sequence coverage of Roche 454 instrument reads
+            was 54.6X (fragments, 3kb, and 8kb), and the  genome spanned over
+            190Mb. The combined sequence reads were assembled using the Newbler
+            software, version 2.6 (Life Technologies, Roche). The Newbler
+            assembled contigs were scaffolded using Bambus v2.3 (Pop et al
+            2004), and a transcriptome-guided scaffolding algorithm (X. Chen
+            and L. Landweber, Department of Ecology and Evolutionary Biology,
+            Princeton University). This draft assembly was referred to as
+            Physarum polycephalum 10.0. In this version the assembly has been
+            cleaned of contaminating contigs. All scaffolds of at least 200
+            bases were retained for submission to the public databases. The
+            assembly is made up of a total of 69,709 scaffolds with an N50
+            scaffold length of nearly 54kb (N50 contig length was 2.2kb).
+            
+              The National Human Genome Research Institute (NHGRI), National
+            Institutes of Health (NIH) have provided the Genome Institute at
+            Washington University School of Medicine funding for sequence and
+            characterization of the Physarum polycephalum genome. The
+            individual reads for this project are available from the NCBI trace
+            archive.
+            
+              For questions regarding this Physarum polycephalum 10.0 assembly
+            please contact Patrick Minx, Washington University School of
+            Medicine (pminx@genome.wustl.edu).
+            
+             Credits:
+             Physarum polycephalum project planning - Sandie Baldauf
+            (University of York, UK), Gernot Gloeckner (Leibniz-Institute of
+            Freshwater Ecology and Inland Fisheries, DE), Jonatha Gott (Case
+            Western Reserve University, Cleveland, USA), Eggehard Holler
+            (University of Regensburg, Germany), Laura Landweber (Princeton
+            University), Wolfgang Marwan (University of Hertfordshire, UK),
+            Gerard Pierron (Institut Andre Lwoff, Villjuif, France), Pauline
+            Schaap (University of Dundee, UK), and Georg Golderer, Stefan
+            Leitner, Ernst R. Werner, Gabriele Werner-Felmayer (University of
+            Innsbruck, Austria)
+             DNA source - Gerard Pierron, Marianne Benard, Institut Andre
+            Lwoff, Villejuif, France.
+             Sequencing - The Genome Institute, Washington University School of
+            Medicine, St Louis, MO.
+             Sequence assembly - The Genome Institute, Washington University
+            School of Medicine, St Louis, MO; Landweber Lab, Princeton
+            University, Princeton, New Jersey.
+            
+              Citation upon use of this assembly in a manuscript:
+             It is requested that users of this Physarum polycephalum 10.0
+            sequence assembly acknowledge Richard K. Wilson and The Genome
+            Institute, Washington University School of Medicine in any
+            publications that result from use of this sequence assembly.
+            
+             Assembly 10.0 stats:
+             *** Contiguity: Contig *** Total contig number: 152662 Total
+            contig bases: 189980644 bp Average contig length: 1244 bp Maximum
+            contig length: 74487 bp N50 contig length: 2244 bp N50 contig
+            number: 22124
+             *** Contiguity: Supercontig *** Total supercontig number: 69709
+            Average supercontig length: 2725 bp Maximum supercontig length:
+            611099 bp N50 supercontig length: 53844 bp N50 supercontig number:
+            777
+             *** Scaffold Distribution *** Scaffolds > 1M: 0 Scaffold 250K--1M:
+            48 Scaffold 100K--250K: 335 Scaffold 10--100K: 2289 Scaffold
+            5--10K: 1988 Scaffold 2--5K: 3436 Scaffold 0--2K: 61613
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method       :: ALLPATHS v. March 2014
+            Assembly Name         :: Physarum_polycephalum-10.0
+            Genome Coverage       :: 55x
+            Sequencing Technology :: Roche 454
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..5191
+                     /organism="Physarum polycephalum"
+                     /mol_type="genomic DNA"
+                     /submitter_seqid="Physarum_polycephalum-10.0-69708.1"
+                     /strain="LU352"
+                     /db_xref="taxon:5791"
+ORIGIN      
+        1 cctcctcctc cctcctccct cctctccctc ctccctcctc cctctccctc ctccctccct
+       61 cccctcctcc ctcctcccct tcctcccctc tccccccttc tccccttctc ccccctctcc
+      121 cctctccccc ttccctctcc tcccttatca ggaatagggg ggttaagggg tagacttggt
+      181 taaatagtaa ataatagttt attgaataga atacaaaagt aagaagtgaa tgagctttta
+      241 tactttaaaa gctctagtga ttcttgggaa tttctctggt cccagttttt attctttgaa
+      301 actacaaata ttaccaaatc aagaaatatg aaatattttc agattctttc tgatttctca
+      361 actttttctt gtgtttgatt gttgtgttat tattgttgat gcttgatact gttgtatatt
+      421 gggtgttgag tgttattgat gttaagtatt gaggtgttct gatacttccc ctcaatcaat
+      481 actaactagg ttgagcttcg aaaatagttt ctcaaaagtg gcacaaggaa gtggcttggt
+      541 gaaaagatct gcaatttgct ctaaagtgtg acaatagaga agattgattt catcctttgc
+      601 aatagtctcc ctaatgaagt gacactgaat caatgtgctt ggttcattga tggaagactg
+      661 gtatgtgcaa gttgaatgca cccttgatta tccttgtaga gtgtggaggg tgtggtttgt
+      721 ttgtattcaa gtttgccaca aagtctccta agccaaatag cttcttttgc tgtctatgtg
+      781 gtagcagtat actctgattt ggttgaagag gtgatggtct gctgtctttt tgaagtccaa
+      841 ctgatggaag cagatccaag aaagtaaatg aatcttgtga ttgagtgtct agtgtttgta
+      901 ggtaatcata tgtccaaatt ccacaacggg ctggccctgc cacgtactta aagataaaaa
+      961 attgaaaaaa attgtttttt gagaagtgat attttcatct tgacatgatg aaaatatgaa
+     1021 aagttacgac ttaccaatat tacatacatt ttttttgaaa attaattttt ttcatttttt
+     1081 tgtatgataa tttgggagaa aaatataaac taccaaatat ccaatggtag tagataattt
+     1141 tgacagtcac aaaaaaaata aattttttaa atatgttttt caagttttcc atatattttt
+     1201 tcaaaaaaaa tattttttta caaacaatac atgataatta gcaaaaaaat ctgctaatca
+     1261 ttttattgta ttgcttaaaa ttatttcaag caatatataa aaagatatca cgatgcacga
+     1321 atcaattgta acatgtcaca acgttgcaat gcgcaatgtt gcactcatac aacgcaatgt
+     1381 tgtgatagca ttgcaacatc acaatgtgtc gtgctggact gcatgtgttg cagcatttca
+     1441 aaagtgtcat ggcagctccg tagctgccac gcacgctatg cgccagtgat gccccttggt
+     1501 actttactaa tttgtaccta ggggcatctt ttgcaggttt tctttttttt tacacaccgt
+     1561 ggtggagcat agtgctctat ccatgcattt ttaccatacg attagactta tggtgtttga
+     1621 acctccctaa tctgcatcac aaatccagtg agagtgagat ttgtttcttc ttgtgtgtgg
+     1681 aaaagagaac atgaaggctt ccacatatat aacataagag gtgcttcaaa attgcccagt
+     1741 gagtggttgt aggagtagca gcatagtgtt caagtattcc tactacaaaa gcaatgttta
+     1801 gtctagctga gaccatagta tacatgagtt ttccaactac tcttctatag agtgtttcat
+     1861 tgattgactt tccttggttg ttggcaaggg ttccaaatgc ttctcttcct attggcacag
+     1921 ctgaggaatg acagtctttc atgcccattt cttctaaaat tttgagactt atgtggatta
+     1981 agagatggaa ataccaccac ttgtctagtt gacttgtaaa cttaaaacat aacttgcttt
+     2041 gcctaactcc ttgatttgga atttagtaca catttcattt ttgaaaaact aatgtaccca
+     2101 acaaagtatt acaggcagga cacagacagt gcatgattac tagctagaaa ttggattcac
+     2161 tcagcttgct tcagactcat gcctctactt ttgtcaacaa catgatgtat ctcattattg
+     2221 gactttatgt tgaggatttt ctctttgctg gaaatgacaa agtttaagtt gctcaactat
+     2281 cagtcctttg tgtgcaaata cttgttattt ctatcatagg tgagaaagtt tcattgtaat
+     2341 cttcaccttt cttctggcct tgtgctacta aatgtgcatt ataatgttgt attgagccac
+     2401 ctttgcaatt tcttcttgta aaccctttgt gtctacaata tgcttgccag atggcaagtc
+     2461 tactaacttc cagatcttat tttgcttaag tgcttgaagt tcttcttcca ttgcagtttg
+     2521 ccaaagatta ttatctatga tctctttgag tgtagtaggg tctgtgttgt taaatgttga
+     2581 tacaaactac acaaagtctt tttcaccttt gggggactcc tttgttactt tgagaagatt
+     2641 gcttaaattg tattgatatt tactggaata acaggagctt ggtggccaca attatcttga
+     2701 agtggctctt caacatcaaa gtcattcaat agtagttgat tctccatatt ttcttcgggt
+     2761 agaggttctg gcatgtcatc aaaattatct tggattttgg ctttcagctg acttatttct
+     2821 acactggtgt atgtgaagaa agtggtaagg atgaagatgg tggagcttta tgaatagata
+     2881 agtcagtttc cacaaagtgt acatttctag tgttgaagat tctcctggtt tctgccaaag
+     2941 tcaatcagaa gttgaagttg atccatacca tggtaagtcc taagtagatg aattggtgag
+     3001 ttctaggtgc taacttgtga caattgttag ttcatcaata gcaaaggctt tgtatccaaa
+     3061 aactttgaag tttccaatat ttggctttac ttgtgtaaaa gcttcatgag gtgtgatgtc
+     3121 gggtgctttt gttggtaaac atgcatctaa cacttcaaat aagatactat tactacacca
+     3181 gcaactgagt tgtatggtgg tgaggtactg tgcaatacta tgaagtttga gttcagtttg
+     3241 catttgtttg ctaacaactc tttgccttca tatgtatgaa gttctctaac cagagtgttt
+     3301 agttacaaaa gattcctaga tgttaaactc ttgttgaaag tcactttttc ttttaagata
+     3361 aaaaatccac ctaaagtgag ttagctgtct ttaagagtgg caaaaaatct tgctcctcct
+     3421 attgaaggtg tggaaagtgg accacaaagg tcagcatgat tttctcaagt ggtttagttg
+     3481 ctcaaggaaa ggaattggtt ttaggaatag actcatgctt agctttatct ttaaagcata
+     3541 cttcataatc tgtgtaagga gagggtgtaa taacttttat gccatctacc attccattta
+     3601 ccatttgttg gatttgcttt gtgctgatgt gtctaaggca ttggtgccaa atttgagttg
+     3661 ttgaggctat attcactgaa ataggtatcc aaggatgaga ttgacctccc cctttctatc
+     3721 agcagaaaca atttgtttgt ttgccatttc tactccaatt tcagttgtgg aagtgagaga
+     3781 agtaaaaaga gatttgttgc cagtcgcata gtagcaccaa agtaaaatta tccaaactgt
+     3841 ggcagtaact ttgggagctt gcacaaatac tcctatatca ctcatacccc cagggggtcc
+     3901 ttatgagtac actaggagta tttgtgaaaa ttttactctt aggagttcac ttataaattg
+     3961 gtgcacactg ataaggcata ttacatttaa tataatagtt cacattaact aaaatgtatc
+     4021 agtaaggaac actaacaatt gttatactta atattattta tttttaccca aatgtgcttt
+     4081 ataattgtat attacatatg aataatgacc ttccctcccc ccctctagga gttggtaaag
+     4141 cataagaaga ggagattgaa ggtattattc aaacaaactt caacaccaac ccctcattca
+     4201 cccccgcctc caatcataca cttttctctc cacaagtagc ccactacccc ctcctgcacc
+     4261 accaccaccc tccccccaaa aaagcacaac tctcacaaaa cacctatttc aaacccacaa
+     4321 tcacccagca cgcaaactgg aagcttctat gaagatattg agtgaggcag agatagaagc
+     4381 tcacaagtta ggaatagaag ttgagaagtt ggaaggagta gaaggggttg aggaagtgtt
+     4441 caaacaaaaa agagctagat tgactatatt aacccttaat catgcagatg tctcaaattg
+     4501 agacactccc caaaattttt ttttgcatgt ttttttggag tactaatatc ttaccctaaa
+     4561 aatagtttgt tttttttata ctgaatagca atatgataca tcaaggtata cttctgtttt
+     4621 ggcccaccta cattaaatgt tatagaacca taaccctaac cctagccctc acccttatgt
+     4681 tctaatttga gatgtctgtg tagttaggag gaaaaaaatt gtgtgtgggt aagggtcaat
+     4741 ggaagtaaga gtattgaaac atttgcattt tccttcattt taatataaaa actgaatttt
+     4801 ttgaaacatc aaaaaattta atttttcccc agtatggtgt gctttctaaa aaagaaaagt
+     4861 gtccgcacca aaaaaattca aaatgtgata aatagtactc cactatcatt gtgataaaat
+     4921 cataaaaaca tttttttaag cctaatcatt gcaattaggc ccaaacatgt aatctaaaag
+     4981 aatgatactt taaataataa atactgtccg ttttgatcaa gtgatgcaca aaaaaagttt
+     5041 tccttcttgc tctcaaaatg gctgcaggat atttttatta aatcacaatt acacaaacca
+     5101 ccatttcaac tgtgcgtcca caccactatg tcttgtaatt acttcacaat cctaaataat
+     5161 acctaaataa aacattaggt aatggagcat g
+//
