@@ -3,7 +3,7 @@
 # interrogation pubmed et extrait les mots-cles 
 # (champs `OT`) et associe leur comptage.
 # Export au format CSV ( ";"-separateur) dans un fichier
-# 'worldcloud.csv'
+# 'wordcounts.csv'
 #
 # pour importer dans `www.worldclouds.com`
 #
@@ -55,9 +55,9 @@ for lig in fid:
 
 fid.close()
 
-# Export du dico dans un fichier "wordcloud.csv"
+# Export du dico dans un fichier "wordcounts.csv"
 
-fout = open( "worldcloud.csv", "wt" )
+fout = open( "wordcounts.csv", "wt" )
 fout.write( "weight;word;color;url\n" )
 
 for kw in d.keys():
