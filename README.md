@@ -14,7 +14,7 @@ Chaque groupe doit valider le nom ici entré :
 | G1            | LesIndestructibles |    OUI     |
 | G2            | InSilico           |    OUI     |
 | G3            | LesViperes         |OUI         |
-| G4            | L'InfoSite         |            |
+| G4            | L'InfoSite         |OUI         |
 | G5            | MatriCells         |    OUI     |
 | G6            | PyzoPlasmes        |    OUI     |
 | G7            | XAEAXII            |    OUI     |
