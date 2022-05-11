@@ -22,6 +22,14 @@ Chaque groupe doit valider le nom ici entré :
 
 *Conclusion* : chaque groupe a validé son nom.
 
+## Mot-clés des publications Physarum
+
+Le script `get-wordcounts-from-pubmed-output.py` a ete modifie pour
+produire des resultats dans un fichier nommé `wordcounts.csv`.
+
+Ce fichier (produit a partir de *votre* export Pubmed) devra etre
+joint a votre projet.
+
 ## Fichiers pour le TP BLAST
 
 Tous les fichiers nécessaires au TP/BLAST sont dans le répertoire `./Genomics`.
