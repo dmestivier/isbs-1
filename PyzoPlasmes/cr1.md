@@ -1,18 +1,27 @@
-#Compte-rendu TP : PyzoPlasmes
+# Compte-rendu TP : PyzoPlasmes
 
-L'objectif est d'effectuer une recherche bibliographique sur le site pubmed du NCBI, obtenue à partir de la liste des publications concernant le Physarum polycephalum. 
+L'objectif est de réaliser un Wordcloud à partir des mots-clés associés à la recherche "Physarum Polycephalum" sur le site NCBI.
 
-##Méthode : 
+## Méthode : 
 
-###1 Obtention de la liste des publications
+### 1 Obtention de la liste des publications
 
-Sur le site du NCBI, dans la banque des données pubmed on recherche le mot-clé "Physarum polycephalum" et on obtient 1631 résultats publié entre 1945 et 2022. 
-Afin d'affiner les recherches, on sélectionne le format pubmed on obtient donc un fichier texte que l'on sauvegarde.
+Sur le site du NCBI, dans la banque de données pubmed on recherche le mot-clé "Physarum polycephalum" et on obtient 1631 résultats publiés entre 1945 et 2022. 
+Afin d'affiner les recherches, on sélectionne le format pubmed, et on ne conserve que les mots-clés contenant le tag OT. On obtient donc un fichier texte que l'on sauvegarde.
 
-###2 Obtention des mots-clés
+### 2 Obtention des mots-clés
+ 
+ On exécute le script "get-wordcounts-from-pubmed-output.ipynb" sur Spyder pour obtenir un fichier au format CSV nommé physarum-wordcloud.csv.
+ Ce fichier contient les mots-clés et leurs occurences.
 
-A partir du fichier texte sauvegardé, on utilise le script "get-wordcounts-from-pubmed-output.ipynb" que l'on copie pour le coller dans un programme python qui nous a permis d'obtenir un fichier CSV contenant l'ensemble des mots-clés associés à la recherche.
-Ainsi que leur nombre d'occurence.
+### 3 Obtention d'un wordcloud
 
-###3 Obtention d'un wordcloud
+On se connecte sur le site wordcloud. On sélectionne "wordlist" puis "import from csv". 
+On sélectionne le fichier obtenu grâce au programme Python. 
+On détermine les paramètres de couleur et forme, à l'aide des commandes "shape" et "colors". 
+Nous avons choisi un cerveau en lien avec la recherche et les couleurs jaune et orange en lien avec la couleur du Blob. 
+On enregistre cette image au format png. 
 
+## Résultats 
+
+On observe que sur l'image obtenue les mots les plus visibles sont ceux dont l'occurence est la plus grande. 
