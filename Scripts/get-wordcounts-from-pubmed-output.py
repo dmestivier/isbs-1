@@ -30,7 +30,7 @@ fn = "data-test.txt"
 # ouverture du fichier pour lecture
 # on cree une variable file-identifier pour acceder a notre fichier
 
-fid = open( fn, "rt" )
+fid = open( fn, "rt", encoding="utf8" )
 
 # go !
 
@@ -57,7 +57,7 @@ fid.close()
 
 # Export du dico dans un fichier "wordcounts.csv"
 
-fout = open( "wordcounts.csv", "wt" )
+fout = open( "wordcounts.csv", "wt" , encoding="utf8)
 fout.write( "weight;word;color;url\n" )
 
 for kw in d.keys():
