@@ -1,0 +1,621 @@
+PMID- 33743354
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210622
+LR  - 20210622
+IS  - 1090-2104 (Electronic)
+IS  - 0006-291X (Linking)
+VI  - 550
+DP  - 2021 Apr 23
+TI  - Excitable dynamics of Physarum polycephalum plasmodial nodes under chemotaxis.
+PG  - 171-176
+LID - S0006-291X(21)00360-0 [pii]
+LID - 10.1016/j.bbrc.2021.02.133 [doi]
+AB  - Recent results show that the chemotactic response of uni-cellular decentralized 
+      systems such as amoeboid and mammalian cells, is excitable. The same observation has 
+      not yet been reported for multi-nucleated decentralized biological systems. Here we 
+      present experimental results that shows the Physarum polycephalum plasmodial nodes 
+      spatio-temporal chemotactic dynamics as an excitable response. We found a highly 
+      optimized signal synthesis method wherein the Physarum nodes employ two intensity 
+      thresholds to properly navigate the chemoattractant field and generate corresponding 
+      spike dynamics in the node count. The node spike dynamics was found to correspond to 
+      the polarized-depolarized transition in the Physarum polycephalum morphology. 
+      Validation of our experimental observations via Brownian lattice simulations yields 
+      the same quantitative results with our experiments.
+CI  - Copyright © 2021 Elsevier Inc. All rights reserved.
+FAU - Reserva, Rosario L
+AU  - Reserva RL
+AD  - Department of Physics and Complex Systems Group - PRISM, MSU-Iligan Institute of 
+      Technology, Tibanga, Iligan City, 9200, Philippines.
+FAU - Micompal, Maria Theresa Mae M
+AU  - Micompal MTMM
+AD  - Department of Physics and Complex Systems Group - PRISM, MSU-Iligan Institute of 
+      Technology, Tibanga, Iligan City, 9200, Philippines.
+FAU - Mendoza, Kathleen C
+AU  - Mendoza KC
+AD  - Department of Physics and Complex Systems Group - PRISM, MSU-Iligan Institute of 
+      Technology, Tibanga, Iligan City, 9200, Philippines.
+FAU - Confesor, Mark Nolan P
+AU  - Confesor MNP
+AD  - Department of Physics and Complex Systems Group - PRISM, MSU-Iligan Institute of 
+      Technology, Tibanga, Iligan City, 9200, Philippines. Electronic address: 
+      marknolan.confesor@g.msuiit.edu.ph.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210317
+PL  - United States
+TA  - Biochem Biophys Res Commun
+JT  - Biochemical and biophysical research communications
+JID - 0372516
+SB  - IM
+MH  - Action Potentials
+MH  - *Chemotaxis
+MH  - Physarum polycephalum/*cytology
+MH  - Reproducibility of Results
+OTO - NOTNLM
+OT  - *Chemotaxis
+OT  - *Excitable dynamics
+OT  - *Physarum polycephalum
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared to 
+      influence the work reported in this paper.
+EDAT- 2021/03/21 06:00
+MHDA- 2021/06/23 06:00
+CRDT- 2021/03/20 20:10
+PHST- 2021/02/15 00:00 [received]
+PHST- 2021/02/25 00:00 [accepted]
+PHST- 2021/03/21 06:00 [pubmed]
+PHST- 2021/06/23 06:00 [medline]
+PHST- 2021/03/20 20:10 [entrez]
+AID - S0006-291X(21)00360-0 [pii]
+AID - 10.1016/j.bbrc.2021.02.133 [doi]
+PST - ppublish
+SO  - Biochem Biophys Res Commun. 2021 Apr 23;550:171-176. doi: 
+      10.1016/j.bbrc.2021.02.133. Epub 2021 Mar 17.
+
+PMID- 33773179
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210503
+LR  - 20210503
+IS  - 1873-6424 (Electronic)
+IS  - 0269-7491 (Linking)
+VI  - 279
+DP  - 2021 Jun 15
+TI  - Physarum polycephalum macroplasmodium exhibits countermeasures against TiO(2) 
+      nanoparticle toxicity: A physiological, biochemical, transcriptional, and metabolic 
+      perspective.
+PG  - 116936
+LID - S0269-7491(21)00518-2 [pii]
+LID - 10.1016/j.envpol.2021.116936 [doi]
+AB  - Concerns about the environmental and human health implications of TiO(2) 
+      nanoparticles (nTiO(2)) are growing with their increased use in consumer and 
+      industrial products. Investigations of the underlying molecular mechanisms of 
+      nTiO(2) tolerance in organisms will assist in countering nTiO(2) toxicity. In this 
+      study, the countermeasures exhibited by the slime mold Physarum polycephalum 
+      macroplasmodium against nTiO(2) toxicity were investigated from a physiological, 
+      transcriptional, and metabolic perspective. The results suggested that the 
+      countermeasures against nTiO(2) exposure include gene-associated metabolic 
+      rearrangements in cellular pathways involved in amino acid, carbohydrate, and 
+      nucleic acid metabolism. Gene-associated nonmetabolic rearrangements involve 
+      processes such as DNA repair, DNA replication, and the cell cycle, and occur mainly 
+      when macroplasmodia are exposed to inhibitory doses of nTiO(2). Interestingly, the 
+      growth of macroplasmodia and mammal cells was significantly restored by 
+      supplementation with a combination of responsive metabolites identified by 
+      metabolome analysis. Taken together, we report a novel model organism for the study 
+      of nTiO(2) tolerance and provide insights into countermeasures taken by 
+      macroplasmodia in response to nTiO(2) toxicity. Furthermore, we also present an 
+      approach to mitigate the effects of nTiO(2) toxicity in cells by metabolic 
+      intervention.
+CI  - Copyright © 2021 Elsevier Ltd. All rights reserved.
+FAU - Zhang, Zhi
+AU  - Zhang Z
+AD  - School of Food Science/School of Public Health/the Key Laboratory of Environmental 
+      Pollution Monitoring and Disease Control, Ministry of Education, Guizhou Medical 
+      University, Guiyang, 550025, China; Shenzhen Key Laboratory of Microbial Genetic 
+      Engineering, Shenzhen Key Laboratory of Marine Bioresource and Eco-environmental 
+      Science, College of Life Sciences and Oceanography, Shenzhen University, Shenzhen, 
+      518060, China.
+FAU - Liang, Zhi Cheng
+AU  - Liang ZC
+AD  - Shenzhen Key Laboratory of Microbial Genetic Engineering, Shenzhen Key Laboratory of 
+      Marine Bioresource and Eco-environmental Science, College of Life Sciences and 
+      Oceanography, Shenzhen University, Shenzhen, 518060, China.
+FAU - Liang, Xiu Yi
+AU  - Liang XY
+AD  - Shenzhen Key Laboratory of Microbial Genetic Engineering, Shenzhen Key Laboratory of 
+      Marine Bioresource and Eco-environmental Science, College of Life Sciences and 
+      Oceanography, Shenzhen University, Shenzhen, 518060, China.
+FAU - Zhang, Qing Hai
+AU  - Zhang QH
+AD  - School of Food Science/School of Public Health/the Key Laboratory of Environmental 
+      Pollution Monitoring and Disease Control, Ministry of Education, Guizhou Medical 
+      University, Guiyang, 550025, China.
+FAU - Wang, Ya Jie
+AU  - Wang YJ
+AD  - School of Food Science/School of Public Health/the Key Laboratory of Environmental 
+      Pollution Monitoring and Disease Control, Ministry of Education, Guizhou Medical 
+      University, Guiyang, 550025, China.
+FAU - Zhang, Jian Hua
+AU  - Zhang JH
+AD  - Shenzhen Key Laboratory of Microbial Genetic Engineering, Shenzhen Key Laboratory of 
+      Marine Bioresource and Eco-environmental Science, College of Life Sciences and 
+      Oceanography, Shenzhen University, Shenzhen, 518060, China.
+FAU - De Liu, Shi
+AU  - De Liu S
+AD  - Shenzhen Key Laboratory of Microbial Genetic Engineering, Shenzhen Key Laboratory of 
+      Marine Bioresource and Eco-environmental Science, College of Life Sciences and 
+      Oceanography, Shenzhen University, Shenzhen, 518060, China. Electronic address: 
+      373375458@qq.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20210312
+PL  - England
+TA  - Environ Pollut
+JT  - Environmental pollution (Barking, Essex : 1987)
+JID - 8804476
+RN  - 15FIX9V2JP (titanium dioxide)
+RN  - D1JT611TNE (Titanium)
+SB  - IM
+MH  - Animals
+MH  - Humans
+MH  - Metabolome
+MH  - *Nanoparticles/toxicity
+MH  - *Physarum polycephalum/genetics
+MH  - Titanium/toxicity
+OTO - NOTNLM
+OT  - Metabolic intervention
+OT  - Metabolomics
+OT  - Physarum polycephalum
+OT  - TiO(2) nanoparticles
+OT  - Transcriptomics
+COIS- Declaration of competing interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared to 
+      influence the work reported in this paper.
+EDAT- 2021/03/28 06:00
+MHDA- 2021/05/04 06:00
+CRDT- 2021/03/27 20:10
+PHST- 2020/10/14 00:00 [received]
+PHST- 2021/03/02 00:00 [revised]
+PHST- 2021/03/10 00:00 [accepted]
+PHST- 2021/03/28 06:00 [pubmed]
+PHST- 2021/05/04 06:00 [medline]
+PHST- 2021/03/27 20:10 [entrez]
+AID - S0269-7491(21)00518-2 [pii]
+AID - 10.1016/j.envpol.2021.116936 [doi]
+PST - ppublish
+SO  - Environ Pollut. 2021 Jun 15;279:116936. doi: 10.1016/j.envpol.2021.116936. Epub 2021 
+      Mar 12.
+
+PMID- 24355778
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20140821
+LR  - 20131220
+IS  - 1879-0445 (Electronic)
+IS  - 0960-9822 (Linking)
+VI  - 23
+IP  - 24
+DP  - 2013 Dec 16
+TI  - Physarum.
+PG  - R1082-3
+LID - S0960-9822(13)01187-1 [pii]
+LID - 10.1016/j.cub.2013.09.040 [doi]
+FAU - Alim, Karen
+AU  - Alim K
+AD  - School of Engineering and Applied Sciences and Kavli Institute for Bionano Science 
+      and Technology, Harvard University, Cambridge, MA 02138, USA. Electronic address: 
+      kalim@seas.harvard.edu.
+FAU - Andrew, Natalie
+AU  - Andrew N
+AD  - Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA 
+      02138, USA.
+FAU - Pringle, Anne
+AU  - Pringle A
+AD  - Department of Organismic and Evolutionary Biology, Harvard University, Cambridge, MA 
+      02138, USA.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Curr Biol
+JT  - Current biology : CB
+JID - 9107782
+SB  - IM
+MH  - Physarum polycephalum/*physiology
+MH  - Signal Transduction
+EDAT- 2013/12/21 06:00
+MHDA- 2014/08/22 06:00
+CRDT- 2013/12/21 06:00
+PHST- 2013/12/21 06:00 [entrez]
+PHST- 2013/12/21 06:00 [pubmed]
+PHST- 2014/08/22 06:00 [medline]
+AID - S0960-9822(13)01187-1 [pii]
+AID - 10.1016/j.cub.2013.09.040 [doi]
+PST - ppublish
+SO  - Curr Biol. 2013 Dec 16;23(24):R1082-3. doi: 10.1016/j.cub.2013.09.040.
+
+PMID- 25448893
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150819
+LR  - 20191210
+IS  - 1872-8324 (Electronic)
+IS  - 0303-2647 (Linking)
+VI  - 127
+DP  - 2015 Jan
+TI  - Physarum polycephalum: towards a biological controller.
+PG  - 42-6
+LID - S0303-2647(14)00178-6 [pii]
+LID - 10.1016/j.biosystems.2014.10.005 [doi]
+AB  - Microbial fuels cells (MFCs) are bio-electrochemical transducers that generate 
+      energy from the metabolism of electro-active microorganisms. The organism Physarum 
+      polycephalum is a slime mould, which has demonstrated many novel and interesting 
+      properties in the field of unconventional computation, such as route mapping between 
+      nutrient sources, maze solving and nutrient balancing. It is a motile, 
+      photosensitive and oxygen-consuming organism, and is known to be symbiotic with 
+      some, and antagonistic with other microbial species. In the context of artificial 
+      life, the slime mould would provide a biological mechanism (along with the microbial 
+      community) for controlling the performance and behaviour of artificial systems 
+      (MFCs, robots). In the experiments it was found that P. polycephalum did not 
+      generate significant amounts of power when inoculated in the anode. However, when P. 
+      polycephalum was introduced in the cathode of MFCs, a statistically significant 
+      difference in power output was observed.
+CI  - Copyright © 2014 Elsevier Ireland Ltd. All rights reserved.
+FAU - Taylor, Benjamin
+AU  - Taylor B
+AD  - Bristol BioEnergy Centre, Bristol Robotics Laboratory, University of the West of 
+      England, Bristol, BS16 1QY, UK. Electronic address: benjamin.taylor@brl.ac.uk.
+FAU - Adamatzky, Andrew
+AU  - Adamatzky A
+AD  - Centre for Unconventional Computing, University of the West of England, Bristol, 
+      BS16 1QY, UK. Electronic address: andrew.adamatzky@uwe.ac.uk.
+FAU - Greenman, John
+AU  - Greenman J
+AD  - Department of Biological, Biomedical and Analytical Sciences, University of the West 
+      of England, Bristol, BS16 1QY, UK. Electronic address: john.greenman@uwe.ac.uk.
+FAU - Ieropoulos, Ioannis
+AU  - Ieropoulos I
+AD  - Bristol BioEnergy Centre, Bristol Robotics Laboratory, University of the West of 
+      England, Bristol, BS16 1QY, UK. Electronic address: ioannis.ieropoulos@brl.ac.uk.
+LA  - eng
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20141103
+PL  - Ireland
+TA  - Biosystems
+JT  - Bio Systems
+JID - 0430773
+SB  - IM
+MH  - Bioelectric Energy Sources/*parasitology
+MH  - Electrodes/*parasitology
+MH  - Physarum polycephalum/*metabolism
+OTO - NOTNLM
+OT  - Cathode efficiency
+OT  - Microbial fuel cells
+OT  - Robotic control
+OT  - Slime mould
+EDAT- 2014/12/03 06:00
+MHDA- 2015/08/20 06:00
+CRDT- 2014/12/03 06:00
+PHST- 2014/09/18 00:00 [received]
+PHST- 2014/10/29 00:00 [revised]
+PHST- 2014/10/31 00:00 [accepted]
+PHST- 2014/12/03 06:00 [entrez]
+PHST- 2014/12/03 06:00 [pubmed]
+PHST- 2015/08/20 06:00 [medline]
+AID - S0303-2647(14)00178-6 [pii]
+AID - 10.1016/j.biosystems.2014.10.005 [doi]
+PST - ppublish
+SO  - Biosystems. 2015 Jan;127:42-6. doi: 10.1016/j.biosystems.2014.10.005. Epub 2014 Nov 
+      3.
+
+PMID- 34271083
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220112
+LR  - 20220112
+IS  - 1872-8324 (Electronic)
+IS  - 0303-2647 (Print)
+IS  - 0303-2647 (Linking)
+VI  - 208
+DP  - 2021 Oct
+TI  - Complex population dynamics in a spatial microbial ecosystem with Physarum 
+      polycephalum.
+PG  - 104483
+LID - S0303-2647(21)00131-3 [pii]
+LID - 10.1016/j.biosystems.2021.104483 [doi]
+AB  - This research addresses the interactions between the unicellular slime mold Physarum 
+      polycephalum and a red yeast in a spatial ecosystem over week-long imaging 
+      experiments. An inverse relationship between the growth rates of both species is 
+      shown, where P. polycephalum has positive growth when the red yeast has a negative 
+      growth rate and vice versa. The data also captures successional and oscillatory 
+      dynamics between both species. An advanced image analysis methodology for semantic 
+      segmentation is used to quantify population density over time, for all components of 
+      the ecosystem. We suggest that P. polycephalum is capable of exhibiting a 
+      sustainable feeding strategy by depositing a nutritive slime trail, allowing yeast 
+      to serve as a periodic food source. This opens a new direction of P. polycephalum 
+      research, where the population dynamics of spatial ecosystems can be readily 
+      quantified and complex ecological dynamics can be studied.
+CI  - Copyright © 2021 Elsevier B.V. All rights reserved.
+FAU - Epstein, Leo
+AU  - Epstein L
+AD  - University of Idaho, Moscow, ID, 83844, USA; Max Delbrück Center for Molecular 
+      Medicine, Berlin, 13125, Germany.
+FAU - Dubois, Zeth
+AU  - Dubois Z
+AD  - University of Idaho, Moscow, ID, 83844, USA.
+FAU - Smith, Jessica
+AU  - Smith J
+AD  - University of Idaho, Moscow, ID, 83844, USA.
+FAU - Lee, Yunha
+AU  - Lee Y
+AD  - Center for Advanced Systems Understanding (CASUS), Görlitz, 02826, Germany.
+FAU - Harrington, Kyle
+AU  - Harrington K
+AD  - University of Idaho, Moscow, ID, 83844, USA; Max Delbrück Center for Molecular 
+      Medicine, Berlin, 13125, Germany. Electronic address: mdc@kyleharrington.com.
+LA  - eng
+GR  - P20 GM104420/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+DEP - 20210714
+TA  - Biosystems
+JT  - Bio Systems
+JID - 0430773
+SB  - IM
+MH  - *Deep Learning
+MH  - *Ecosystem
+MH  - *Microbiological Phenomena
+MH  - Physarum polycephalum/*physiology
+MH  - Population Dynamics
+PMC - PMC8416962
+MID - NIHMS1726857
+OTO - NOTNLM
+OT  - Microbial ecosystem
+OT  - Physarum polycephalum
+OT  - Population dynamics
+OT  - Slime mold
+EDAT- 2021/07/17 06:00
+MHDA- 2022/01/13 06:00
+PMCR- 2022/10/01
+CRDT- 2021/07/16 20:17
+PHST- 2021/06/18 00:00 [received]
+PHST- 2021/07/07 00:00 [revised]
+PHST- 2021/07/07 00:00 [accepted]
+PHST- 2022/10/01 00:00 [pmc-release]
+PHST- 2021/07/17 06:00 [pubmed]
+PHST- 2022/01/13 06:00 [medline]
+PHST- 2021/07/16 20:17 [entrez]
+AID - S0303-2647(21)00131-3 [pii]
+AID - 10.1016/j.biosystems.2021.104483 [doi]
+PST - ppublish
+SO  - Biosystems. 2021 Oct;208:104483. doi: 10.1016/j.biosystems.2021.104483. Epub 2021 
+      Jul 14.
+
+PMID- 26189159
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160503
+LR  - 20151123
+IS  - 1089-8638 (Electronic)
+IS  - 0022-2836 (Linking)
+VI  - 427
+IP  - 23
+DP  - 2015 Nov 20
+TI  - Brainless but Multi-Headed: Decision Making by the Acellular Slime Mould Physarum 
+      polycephalum.
+PG  - 3734-43
+LID - S0022-2836(15)00387-3 [pii]
+LID - 10.1016/j.jmb.2015.07.007 [doi]
+AB  - Because of its peculiar biology and the ease with which it can be cultured, the 
+      acellular slime mould Physarum polycephalum has long been a model organism in a 
+      range of disciplines. Due to its macroscopic, syncytial nature, it is no surprise 
+      that it has been a favourite amongst cell biologists. Its inclusion in the 
+      experimental tool kit of behavioural ecologists is much more recent. These recent 
+      studies have certainly paid off. They have shown that, for an organism that lacks a 
+      brain or central nervous system, P. polycephalum shows rather complex behaviour. For 
+      example, it is capable of finding the shortest path through a maze, it can construct 
+      networks as efficient as those designed by humans, it can solve computationally 
+      difficult puzzles, it makes multi-objective foraging decisions, it balances its 
+      nutrient intake and it even behaves irrationally. Are the slime mould's achievements 
+      simply "cute", worthy of mentioning in passing but nothing to take too seriously? Or 
+      do they hint at the fundamental processes underlying all decision making? We will 
+      address this question after reviewing the decision-making abilities of the slime 
+      mould.
+CI  - Copyright © 2015 Elsevier Ltd. All rights reserved.
+FAU - Beekman, Madeleine
+AU  - Beekman M
+AD  - Behaviour and Genetics of Social Insects Laboratory, School of Biological Sciences, 
+      The University of Sydney, Sydney NSW 2006, Australia. Electronic address: 
+      madeleine.beekman@sydney.edu.au.
+FAU - Latty, Tanya
+AU  - Latty T
+AD  - Department of Plant and Food Sciences, The University of Sydney, Sydney NSW 2006, 
+      Australia. Electronic address: tanya.latty@sydney.edu.au.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20150717
+PL  - England
+TA  - J Mol Biol
+JT  - Journal of molecular biology
+JID - 2985088R
+SB  - IM
+MH  - Biological Transport
+MH  - *Feedback, Physiological
+MH  - Physarum polycephalum/*physiology
+OTO - NOTNLM
+OT  - acellular slime mould
+OT  - decision-making
+OT  - foraging decisions
+OT  - optimal foraging
+OT  - trade-offs
+EDAT- 2015/07/21 06:00
+MHDA- 2016/05/04 06:00
+CRDT- 2015/07/20 06:00
+PHST- 2015/05/15 00:00 [received]
+PHST- 2015/07/02 00:00 [revised]
+PHST- 2015/07/07 00:00 [accepted]
+PHST- 2015/07/20 06:00 [entrez]
+PHST- 2015/07/21 06:00 [pubmed]
+PHST- 2016/05/04 06:00 [medline]
+AID - S0022-2836(15)00387-3 [pii]
+AID - 10.1016/j.jmb.2015.07.007 [doi]
+PST - ppublish
+SO  - J Mol Biol. 2015 Nov 20;427(23):3734-43. doi: 10.1016/j.jmb.2015.07.007. Epub 2015 
+      Jul 17.
+
+PMID- 10343392
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19990707
+LR  - 20190921
+IS  - 0074-7696 (Print)
+IS  - 0074-7696 (Linking)
+VI  - 191
+DP  - 1999
+TI  - Calcium regulation of the actin-myosin interaction of Physarum polycephalum.
+PG  - 53-98
+AB  - Plasmodia of Physarum polycephalum show vigorous cytoplasmic streaming, the motive 
+      force of which is supported by the actin-myosin interaction. Calcium is not required 
+      for the interaction but inhibits it. This calcium inhibition, a regulatory mode 
+      first discovered in Physarum, is the overwhelming mode of regulation of cytoplasmic 
+      streaming of plant cells and lower eukaryotes, and it is diametrically opposite to 
+      calcium activation of the interaction found in muscle and nonmuscle cells of the 
+      animal kingdom. Myosin, myosin II in myosin superfamily, is the most important 
+      protein for Ca2+ action. Its essential light chain, called calcium-binding light 
+      chain, is the sole protein that binds Ca2+. Although phosphorylation and 
+      dephosphorylation of myosin modify its properties, regulation of physiological 
+      significance is shown to be Ca-binding to myosin. The actin-binding protein of 
+      Physarum amplifies calcium inhibition when Ca2+ binds to calmodulin and other 
+      calcium-binding proteins. This review also includes characterization of this and 
+      other calcium-binding proteins of Physarum.
+FAU - Nakamura, A
+AU  - Nakamura A
+AD  - Department of Pharmacology, Gunma University School of Medicine, Japan.
+FAU - Kohama, K
+AU  - Kohama K
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Int Rev Cytol
+JT  - International review of cytology
+JID - 2985180R
+RN  - 0 (Actins)
+RN  - 0 (Calcium-Binding Proteins)
+RN  - 0 (Protozoan Proteins)
+RN  - 9013-26-7 (Actomyosin)
+RN  - EC 3.6.4.1 (Myosins)
+RN  - SY7Q814VUP (Calcium)
+SB  - IM
+MH  - Actins/*metabolism
+MH  - Actomyosin/metabolism
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Calcium/*physiology
+MH  - Calcium-Binding Proteins/metabolism
+MH  - Molecular Sequence Data
+MH  - Myosins/*metabolism
+MH  - Phosphorylation
+MH  - Physarum polycephalum/metabolism/*physiology
+MH  - Protozoan Proteins/*metabolism
+RF  - 142
+EDAT- 1999/05/27 00:00
+MHDA- 1999/05/27 00:01
+CRDT- 1999/05/27 00:00
+PHST- 1999/05/27 00:00 [pubmed]
+PHST- 1999/05/27 00:01 [medline]
+PHST- 1999/05/27 00:00 [entrez]
+AID - 10.1016/s0074-7696(08)60157-6 [doi]
+PST - ppublish
+SO  - Int Rev Cytol. 1999;191:53-98. doi: 10.1016/s0074-7696(08)60157-6.
+
+PMID- 28465441
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180423
+LR  - 20181113
+IS  - 1091-6490 (Electronic)
+IS  - 0027-8424 (Print)
+IS  - 0027-8424 (Linking)
+VI  - 114
+IP  - 20
+DP  - 2017 May 16
+TI  - Mechanism of signal propagation in Physarum polycephalum.
+PG  - 5136-5141
+LID - 10.1073/pnas.1618114114 [doi]
+AB  - Complex behaviors are typically associated with animals, but the capacity to 
+      integrate information and function as a coordinated individual is also a ubiquitous 
+      but poorly understood feature of organisms such as slime molds and fungi. Plasmodial 
+      slime molds grow as networks and use flexible, undifferentiated body plans to forage 
+      for food. How an individual communicates across its network remains a puzzle, but 
+      Physarum polycephalum has emerged as a novel model used to explore emergent 
+      dynamics. Within P. polycephalum, cytoplasm is shuttled in a peristaltic wave driven 
+      by cross-sectional contractions of tubes. We first track P. polycephalum's response 
+      to a localized nutrient stimulus and observe a front of increased contraction. The 
+      front propagates with a velocity comparable to the flow-driven dispersion of 
+      particles. We build a mathematical model based on these data and in the aggregate 
+      experiments and model identify the mechanism of signal propagation across a body: 
+      The nutrient stimulus triggers the release of a signaling molecule. The molecule is 
+      advected by fluid flows but simultaneously hijacks flow generation by causing local 
+      increases in contraction amplitude as it travels. The molecule is initiating a 
+      feedback loop to enable its own movement. This mechanism explains previously 
+      puzzling phenomena, including the adaptation of the peristaltic wave to organism 
+      size and P. polycephalum's ability to find the shortest route between food sources. 
+      A simple feedback seems to give rise to P. polycephalum's complex behaviors, and the 
+      same mechanism is likely to function in the thousands of additional species with 
+      similar behaviors.
+FAU - Alim, Karen
+AU  - Alim K
+AD  - The Kavli Institute for Bionano Science and Technology, Harvard John A. Paulson 
+      School of Engineering and Applied Sciences, Harvard University, Cambridge, MA 02138; 
+      karen.alim@ds.mpg.de.
+AD  - Max Planck Institute for Dynamics and Self-Organization, 37077 Goettingen, Germany.
+FAU - Andrew, Natalie
+AU  - Andrew N
+AD  - The Kavli Institute for Bionano Science and Technology, Harvard John A. Paulson 
+      School of Engineering and Applied Sciences, Harvard University, Cambridge, MA 02138.
+AD  - Max Planck Institute for Dynamics and Self-Organization, 37077 Goettingen, Germany.
+FAU - Pringle, Anne
+AU  - Pringle A
+AD  - Department of Botany, University of Wisconsin-Madison, Madison, WI 53706.
+AD  - Department of Bacteriology, University of Wisconsin-Madison, Madison, WI 53706.
+FAU - Brenner, Michael P
+AU  - Brenner MP
+AD  - The Kavli Institute for Bionano Science and Technology, Harvard John A. Paulson 
+      School of Engineering and Applied Sciences, Harvard University, Cambridge, MA 02138.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20170502
+TA  - Proc Natl Acad Sci U S A
+JT  - Proceedings of the National Academy of Sciences of the United States of America
+JID - 7505876
+SB  - IM
+MH  - *Models, Biological
+MH  - Physarum polycephalum/*physiology
+MH  - Signal Transduction/*physiology
+PMC - PMC5441820
+OTO - NOTNLM
+OT  - *Taylor dispersion
+OT  - *acellular slime mold
+OT  - *behavior
+OT  - *transport network
+COIS- The authors declare no conflict of interest.
+EDAT- 2017/05/04 06:00
+MHDA- 2018/04/24 06:00
+CRDT- 2017/05/04 06:00
+PHST- 2017/05/04 06:00 [pubmed]
+PHST- 2018/04/24 06:00 [medline]
+PHST- 2017/05/04 06:00 [entrez]
+AID - 1618114114 [pii]
+AID - 201618114 [pii]
+AID - 10.1073/pnas.1618114114 [doi]
+PST - ppublish
+SO  - Proc Natl Acad Sci U S A. 2017 May 16;114(20):5136-5141. doi: 
+      10.1073/pnas.1618114114. Epub 2017 May 2.
+

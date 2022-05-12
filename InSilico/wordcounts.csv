@@ -1,0 +1,195 @@
+weight;word;color;url
+1;Chemotaxis
+1;Excitable dynamics
+48;Physarum polycephalum
+3;chemotaxis
+1;computing-circuits
+1;signal-routing
+1;Microbial ecosystem
+1;Population dynamics
+1;Slime mold
+1;Metabolic intervention
+1;Metabolomics
+1;TiO(2) nanoparticles
+1;Transcriptomics
+1;Assembly
+2;Chromatin
+1;Exchange
+1;Histone modification
+1;Nucleosome
+1;Turnover
+1;Cytotoxicity
+1;HeLa
+1;MCF-7
+2;Microplasmodia
+1;Polysaccharides
+1;Analog control
+1;Magnetic particles
+1;Network
+1;Unconventional computing
+1;TRP channel
+1;basal cognition
+5;decision-making
+1;information processing
+1;mechanosensing
+1;stiffness
+1;affect and value
+1;central and peripheral nervous system
+1;ecological psychology
+1;enactivism
+1;gut microbiome
+1;pragmatism and phenomenology
+1;realism vs. constructivism
+1;Polyaniline
+1;Spectrophotometric scanner
+1;AMPK
+1;Glucose deprivation
+1;Mitochondria
+1;Stereology
+1;complex networks
+1;growth
+1;water distribution networks
+1;Asymmetry
+1;Chirality
+1;Lateralised
+1;Left-right patterning
+1;Biocomputing
+2;Boolean logic
+1;Multisensory integration
+1;Sensory fusion
+1;fatty acid compositions
+1;lipids
+1;microplasmodia
+1;slime molds
+1;cognition
+3;learning
+1;oscillations
+2;slime mould
+1;synchronization
+1;RNA editing
+1;electroporation
+1;mitochondria
+1;Bio-inspired computing
+1;Complex problem solving
+1;Intelligent behaviour
+1;Modelling and computation
+1;Dictyostelium discoideum
+1;unicellular communication
+1;problem solving
+1;biomarker
+1;dark conditions
+1;glutathione S-transferase
+1;nanosized TiO2
+1;plasmodium
+1;terpenes
+1;volatile organic compounds (VOCs)
+1;drift-diffusion model
+1;individual differences
+5;slime moulds
+1;speed–accuracy trade-off
+1;Capillary electrophoresis
+1;Cell differentiation
+1;DNA fragment analysis
+1;Marker genes
+1;Multiplex RT-PCR
+1;Dark conditions
+1;Nanoscale TiO2
+1;Oxidative stress
+1;Toxicity
+1;cytoskeleton
+1;slime mold
+1;unconventional computing
+1;phenotypic plasticity
+1;Agrobacterium rhizogenes
+1;Valeriana officinalis
+1;electrical activity
+1;hairy root cultures
+1;plant transformation
+1;caffeine
+1;light
+1;nutrient
+1;social information use
+3;habituation
+1;Didymium
+1;Fuligo septica
+1;Interspecific interaction
+1;Myxomycetes
+1;Storage mite
+1;amoeboid organism
+1;behavioural ecology
+1;biological individuality
+1;evolution
+1;model organisms
+1;question dependence
+1;social insects
+1;ant colony optimization
+1;hybrid
+1;physarum polycephalum algorithm
+1;swarming algorithm
+1;van der waals forces
+1;memory
+1;Cytoplasmic streaming
+1;Myosin II
+1;Spherule formation
+1;cDNA cloning
+1;C. elegans
+1;D. melanogaster
+1;S. cerevisiae
+1;automation
+1;bombus impatiens
+1;culturing
+1;experimental robot
+1;high throughput phenotyping
+1;neuroscience
+1;physarum polycephalum
+1;Bayesian model selection
+1;exploration–exploitation trade-off
+1;two-armed bandit
+1;biointerface
+1;biosensor
+1;energy harvesting
+1;nanoelectrodes
+1;cell fusion
+1;learned behaviour
+1;chemical attraction
+1;pheromones
+1;Mathematical modeling
+1;Network optimization
+1;Pattern formation
+1;Biological computing
+1;Single-nucleus RNA-seq
+1;Spatial transcriptomics
+1;cell biology
+1;genetics
+1;genomics
+1;syncytium
+1;RNA-seq
+1;cell differentiation
+1;single-cell methods
+1;Big data
+1;Drug similarity network
+1;Steiner tree problem
+1;Subnetwork identification
+1;Waddington epigenetic landscape
+1;differentiation
+1;gene expression
+1;single cell analysis
+1;Frequency
+1;Full adder
+1;Logic gate
+1;Oscillatory dynamics
+1;Betweenness centrality
+1;Closeness centrality
+1;Degree centrality
+1;Heterogeneous topology
+1;Infectious agent
+1;SIR model
+1;Cytosol flow
+1;Locomotion
+1;Symmetry breaking
+1;Decision making
+1;Multi-armed Bandit Problem
+1;Natural computing
+1;Resource allocation
+1;Differentiation
+1;Histories
