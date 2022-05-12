@@ -10,17 +10,16 @@
 Ensuite, nous sommes allées sur le site du NCBI, puis nous nous sommes redirigées vers la banque de données PubMed. Nous avons recherché « Physarum Polycephalum » .
 Cette requête nous a donné 1 631 résultats, soit 1 631 articles traitant de Physarum Polycephalum.
 Afin d’obtenir les informations de mots-clés (tag OT), nous avons cherché dans les options d’affichage "Display Options" et nous avons choisi "PubMed".
-Nous avons sauvegardé ce fichier, en cliquant sur "Save" ainsi que le format du fichier "PubMed". 
-Ce fichier est dans le dossier.
-Après vérification, nous avons bien le champ OT dans le fichier qui nous indique les mots-clés de la recherche.
+Nous avons sauvegardé ce fichier, en cliquant sur "Save" ainsi que le format du fichier "PubMed" pour avoir un fichier .txt .
+Après vérification, nous avons bien le champs OT dans le fichier qui nous indique les mots-clés de la recherche.
 A l'aide de l'éditeur de texte, nous avons pu compter 1659 occurences de "PMID".
 Le fichier a un poids de 3 769 Ko ce qui est comparable à ce qu'on également les autres groupes.
 Comment on a obtenu le cloud ?
-Nous avions exporté les mots trouvés sous un format .docx
+Nous avions exporté les mots trouvés sous un format .txt
 Nous avons ensuite:
-	- utilisé le notebook Jupyter get-wordcounts-from-pubmed-output.ipynb pour extraire les mots clés nous intéréssant
-	- enregistré ces mots sous le format txt
-	- importé notre fichier txt sur le site https://www.worldclouds.com 
+	- utilisé le notebook Jupyter get-wordcounts-from-pubmed-output.py  pour extraire les mots clés nous intéréssant
+	- le programme python a généré un fichier wordcounts.csv qui est dans le dossier
+	- importé notre fichier csv sur le site https://www.worldclouds.com 
 	- créé notre Worldcloud des mots-clés
 	
 Paramètres graphiques sélectionnés:
