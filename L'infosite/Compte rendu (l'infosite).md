@@ -53,7 +53,7 @@ Obtention d'une figure circulaire contenant tous les mots-clés
 
 Options choisies:
 
-Min. word size: 
+Min. word size: 5
 Word margin: 2
 Canvas padding (%): 5
 Text shadow size (slow!): 0

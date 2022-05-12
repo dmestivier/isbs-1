@@ -1,0 +1,505 @@
+weight;word;color;url
+1;Chemotaxis
+1;Excitable dynamics
+48;Physarum polycephalum
+1;Metabolic intervention
+1;Metabolomics
+1;TiO(2) nanoparticles
+1;Transcriptomics
+1;Microbial ecosystem
+1;Population dynamics
+3;Slime mold
+1;Cathode efficiency
+1;Microbial fuel cells
+1;Robotic control
+4;Slime mould
+1;Taylor dispersion
+1;acellular slime mold
+3;behavior
+1;transport network
+1;Assembly
+2;Chromatin
+1;Exchange
+1;Histone modification
+1;Nucleosome
+1;Turnover
+1;acellular slime mould
+6;decision-making
+1;foraging decisions
+1;optimal foraging
+1;trade-offs
+1;Cytotoxicity
+1;HeLa
+1;MCF-7
+2;Microplasmodia
+1;Polysaccharides
+1;Extract
+1;Injury
+1;Networks
+1;Regeneration
+1;Signaling
+1;AMPK
+1;Glucose deprivation
+1;Mitochondria
+1;Stereology
+3;chemotaxis
+1;computing-circuits
+1;signal-routing
+1;fatty acid compositions
+1;lipids
+1;microplasmodia
+1;slime molds
+1;Biological electronics
+1;Frequency response
+1;Passive filter
+1;Physarum wires
+1;Analog control
+1;Magnetic particles
+1;Network
+1;Unconventional computing
+1;Bio-inspired computing
+1;Complex problem solving
+1;Intelligent behaviour
+1;Modelling and computation
+1;fluid flows
+1;morphogenesis
+1;transport
+1;current reinforcement
+1;mathematical model
+2;slime mold
+1;Polyaniline
+1;Spectrophotometric scanner
+1;Biocomputing
+2;Boolean logic
+1;Multisensory integration
+1;Sensory fusion
+1;actomyosin contractility
+3;amoeboid motility
+1;birefringence
+2;physarum
+3;traction force microscopy
+1;biomarker
+1;dark conditions
+1;glutathione S-transferase
+1;nanosized TiO2
+1;Network dynamics
+1;Nonequilibrium dynamics
+1;Shortest path
+1;Transport cost
+1;acellular
+1;fungi
+1;myxomycete
+1;TRP channel
+1;basal cognition
+1;information processing
+1;mechanosensing
+1;stiffness
+1;Cell motility
+1;Exploration
+1;Large-scale substrate
+1;Lévy-walk
+1;Physarum plasmodium
+1;Electronic potential
+1;P. polycephalum
+1;Peristaltic behavior
+2;Plasmodium
+1;Kanizsa illusion
+8;Physarum
+1;asynchronous automata
+3;unconventional computing
+1;Dark conditions
+1;Nanoscale TiO2
+1;Oxidative stress
+1;Toxicity
+1;adaptive networks
+1;decision making
+1;flow networks
+1;GC/MS
+1;Metabolics
+1;Nano-sized TiO(2)
+1;Nanoparticle toxicity
+1;P. polycephalum macroplasmodium
+1;Asymmetry
+1;Chirality
+1;Lateralised
+1;Left-right patterning
+1;cognition
+3;learning
+1;oscillations
+5;slime mould
+1;synchronization
+1;Candida albicans
+1;HepG2
+1;Mcf-7
+1;Monomer composition
+1;Slime molds
+4;CULTURE MEDIA
+18;EXPERIMENTAL LAB STUDY
+1;FERMENTATION
+20;MYXOMYCETES
+1;drift-diffusion model
+1;individual differences
+5;slime moulds
+1;speed–accuracy trade-off
+1;carbon nanotubes
+1;ecotoxicology
+1;Cognition
+1;Consciousness
+2;ACTINOMYCIN
+10;CELL DIVISION
+1;CHEMISTRY
+7;DNA
+8;METABOLISM
+3;NUCLEOSIDES
+5;PHARMACOLOGY
+2;RADIOMETRY
+6;RNA
+3;SARCODINA
+4;TRITIUM
+3;URIDINE
+5;MYXOMYCETES/culture
+1;phenotypic plasticity
+1;caffeine
+1;light
+1;nutrient
+1;social information use
+2;Artificial intelligence
+1;Biological information processing
+1;Codepoesis
+1;Minimal cognition
+1;Non-mental semiosis
+1;Quantitative and qualitative methods
+1;Sub-symbolic computing
+2;MYXOMYCETES/metabolism
+1;NICOTINIC ACID/metabolism
+1;Mathematical modeling
+1;Network optimization
+1;Pattern formation
+1;Cell locomotion
+1;Dimensional analysis
+1;Localization of locomotion machinery
+1;Scaling
+1;Self-organization
+1;Spatial memory
+1;Traveling wave
+3;habituation
+1;ethology
+1;flow network
+1;living matter
+1;physics of living systems
+1;self-organisation
+1;unicellular
+1;Bioinspiration
+1;Biomimetics
+2;cell fusion
+1;network dynamics
+1;Bio-inspired optimization algorithms
+1;Computational applications
+1;Physarum-based models
+1;memory
+1;CHOLINESTERASE/chemistry
+1;MYXOMYCETES/chemistry
+1;PROTOPLASM/chemistry
+19;FUNGI
+4;PROTOPLASM
+1;NASA Experiment Number SLIME
+1;Attractor
+1;Commitment
+1;Complexity
+1;Dynamic system
+1;Tipping point
+1;Bayesian model selection
+1;exploration–exploitation trade-off
+1;two-armed bandit
+2;ENZYMES
+1;Betweenness centrality
+1;Closeness centrality
+1;Degree centrality
+1;Heterogeneous topology
+1;Infectious agent
+1;SIR model
+1;ESTERASES
+1;VENOMS/effects
+1;learned behaviour
+2;Decision making
+1;Foraging
+1;Protist
+1;Rules of thumb
+1;Sampling
+1;Unicellular
+1;behavioural phenotype
+1;calcium
+1;social behaviour
+1;variability
+4;CYTOPLASM
+1;Biological computing
+1;Single-nucleus RNA-seq
+1;Spatial transcriptomics
+1;cell biology
+1;genetics
+2;genomics
+1;syncytium
+2;CARBON ISOTOPES
+1;FATTY ACID METABOLISM
+1;MASTIGOPHORA
+1;STEARIC ACID
+1;FUNGI/effect of drugs on
+1;HYDROCARBONS/effects
+1;SURFACE-ACTIVE SUBSTANCES/effects
+1;BROMODEOXYURIDINE
+5;THYMIDINE
+1;URACIL NUCLEOTIDES
+1;MITOCHONDRIA
+1;autotoxicity
+1;exDNA
+1;exDNA functions
+1;heterologous DNA
+1;self-recognition
+1;ANTINEOPLASTIC AGENTS
+1;BIOLOGICAL ASSAY
+1;TISSUE CULTURE
+1;Frequency
+1;Full adder
+1;Logic gate
+1;Oscillatory dynamics
+1;Multi-armed Bandit Problem
+1;Natural computing
+1;Resource allocation
+1;Cytosol flow
+1;Locomotion
+1;Symmetry breaking
+1;RNA-binding proteins
+1;chloroplasts
+1;cytidine deaminase
+2;mitochondria
+1;pentatricopeptide repeats
+1;protist genomes
+1;pyrimidine conversion editing
+8;FUNGI/metabolism
+2;OXIDASES
+1;AMOEBA
+1;CYTOCHROMES
+1;TIME
+1;DNA, BACTERIAL
+3;FLUORODEOXYURIDINE
+1;PROTEIN METABOLISM
+1;RNA, BACTERIAL
+1;ELECTRICITY/effects
+1;ELECTROPHYSIOLOGY
+1;MELANIN
+1;CHEMOTAXIS/development of dictyostelium
+1;DEVELOPMENT/chemotaxia
+1;RESEARCH
+1;TISSUE METABOLISM
+1;BIOLOGICAL PRODUCTS
+1;NASA Discipline Cell Biology
+1;NASA Discipline Number 00-00
+1;NASA Program Flight
+1;Non-NASA Center
+1;MOLDS
+1;AIR
+1;CYTOLOGY
+1;EDATHAMIL/pharmacology
+1;FATTY ACIDS
+2;GLUTAMATES
+2;OXIDATION-REDUCTION
+1;ENZYMES/determination
+1;AMINO ACIDS/metabolism
+2;PROTEINS/metabolism
+2;MICROSCOPY
+1;SPORES
+1;Didymium
+1;Fuligo septica
+1;Interspecific interaction
+2;Myxomycetes
+1;Storage mite
+1;BIREFRINGENCE
+1;ENDOPLASMIC RETICULUM
+1;MICROSCOPY, POLARIZATION
+1;U12
+1;U12-type introns
+1;bioinformatics
+1;comparative genomics
+3;evolution
+1;intron evolution
+1;intron gain
+1;minor introns
+1;minor spliceosome
+1;NUCLEIC ACIDS/metabolism
+1;collective computation
+1;consensus
+1;mobility
+1;multi-agent systems
+1;PLASMODIUM
+1;NASA Experiment Number 9307385
+1;COLORIMETRY
+1;MICROSCOPY, PHASE CONTRAST
+1;RADIATION EFFECTS
+1;RADIOAUTOGRAPHY
+1;SPECTROPHOTOMETRY
+1;THYMINE
+1;ULTRAVIOLET RAYS
+2;Amoebozoa
+1;phytochrome
+1;signaling
+1;two-component system
+1;tyrosine kinase receptor
+1;cytoskeleton
+1;Agrobacterium rhizogenes
+1;Valeriana officinalis
+1;electrical activity
+1;hairy root cultures
+1;plant transformation
+1;chemical attraction
+1;pheromones
+1;RNA editing
+1;electroporation
+1;plasmodium
+1;terpenes
+1;volatile organic compounds (VOCs)
+1;RNA-seq
+1;cell differentiation
+1;single-cell methods
+1;ant colony optimization
+1;hybrid
+1;physarum polycephalum algorithm
+1;swarming algorithm
+1;van der waals forces
+1;affect and value
+1;central and peripheral nervous system
+1;ecological psychology
+1;enactivism
+1;gut microbiome
+1;pragmatism and phenomenology
+1;realism vs. constructivism
+1;Natural products
+1;Phytochrome
+1;Polyenes
+1;Structure elucidation
+1;UV/Vis spectroscopy
+1;Waddington epigenetic landscape
+1;differentiation
+1;gene expression
+1;single cell analysis
+1;Dictyostelium discoideum
+1;unicellular communication
+1;problem solving
+1;NASA Experiment Number BR 16 D
+3;Differentiation
+1;Histories
+1;amoebae
+1;terpene synthases
+1;volatiles
+1;Big data
+1;Drug similarity network
+1;Steiner tree problem
+1;Subnetwork identification
+1;amoeboid organism
+1;behavioural ecology
+1;biological individuality
+1;model organisms
+1;question dependence
+1;social insects
+1;DNA-content
+1;Flow cytometry
+1;Spherulation
+1;bioMEMS
+1;microfluidics
+1;GIS
+1;Image
+1;Solid culture
+1;complex networks
+1;growth
+1;water distribution networks
+1;BACTERIA
+1;PROTEINS
+1;Capillary electrophoresis
+1;Cell differentiation
+1;DNA fragment analysis
+1;Marker genes
+1;Multiplex RT-PCR
+1;CELL DIFFERENTIATION
+1;MICROSCOPY, ELECTRON
+1;Cytoplasmic streaming
+1;Myosin II
+1;Spherule formation
+1;cDNA cloning
+1;biointerface
+1;biosensor
+1;energy harvesting
+1;nanoelectrodes
+1;HEME
+1;PORPHYRINS
+1;nervous system
+1;C. elegans
+1;D. melanogaster
+1;S. cerevisiae
+1;automation
+1;bombus impatiens
+1;culturing
+1;experimental robot
+1;high throughput phenotyping
+1;neuroscience
+1;physarum polycephalum
+1;ELECTRICITY
+1;FUNGI/chemistry
+1;POTASSIUM/chemistry
+1;logic gates
+1;morphological computing
+1;sensors
+1;cell migration
+1;mechano-chemical interactions
+2;particle image velocimetry
+1;Physarum simulation
+1;Monte Carlo
+1;agent-based modeling
+1;nature-inspired algorithms
+1;procedural generation
+1;actin
+1;myosin
+1;polymerization
+1;Anthropocene
+1;Art
+1;Community well-being
+1;Microbiology
+1;amoeba computing
+1;bioinspired computing
+1;natural computing
+1;travelling salesman problem
+1;HPLC
+1;Microinjection
+1;Sporangia morphogenesis
+1;cAMP-analogues
+1;cell locomotion
+1;cytoplasmic streaming
+1;ADENYLPYROPHOSPHATE
+1;Cell cycle
+1;RNA polymerase B
+1;[3H]α-amanitin binding
+1;Aggregative multi-cellularity
+1;Evolution of complexity
+1;Multigene phylogeny
+1;Universal genes
+1;encystment
+1;mannitol myxomycete
+1;ultrastructure
+1;epifluorescence
+1;incubator
+1;open-hardware
+1;optical microscopy
+1;Development
+1;Sequence complexity
+1;globin genes
+1;Alt-EJ
+1;MRN complex
+1;NHEJ
+1;PARP inhibition
+1;Actin dynamics
+1;Actin filament severing
+1;Ca2+-binding site
+1;Gelsolin superfamily proteins
+1;X-ray crystal structure
+1;Enzyme localization
+1;Growth
+1;Isolated nuclei
+1;RNA polymerases
