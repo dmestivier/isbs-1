@@ -1,0 +1,50 @@
+RID: 8R5UZYWY114	
+Job Title: NODE_119867_length_331_cov_10.778986 				
+Program: BLASTN 
+Query: NODE_119867_length_331_cov_10.778986 ID: lcl|Query_8901(dna) Length: 331
+Subject:KL561420.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2756, whole genome shotgun sequence ID: lcl|Query_8903(dna) Length: 10639
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+KL561420.1 Physarum polycephalum strain LU352 unplaced genomic...                                 0          599    599   100%  1e-174 99.40  10639      Query_8903       
+
+Alignments:
+
+>KL561420.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2756, whole genome shotgun sequence
+Sequence ID: Query_8903 Length: 10639
+Range 1: 2550 to 2878
+
+Score:599 bits(324), Expect:1e-174, 
+Identities:329/331(99%),  Gaps:2/331(0%), Strand: Plus/Minus
+
+Query  1     AAAAATCCCCTGCAAAGCAATATaaaaaaaataaatattaaaaaaaaaaaaaaacattta  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||  ||||||
+Sbjct  2878  AAAAATCCCCTGCAAAGCAATATAAAAAAAATAAATATTAAAAAAAAAAAAA--CATTTA  2821
+
+Query  61    ataaatcaataaaaaaatataaaaatCCCAGTATATTAAGATACTGAGGAATCCAGTTGC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2820  ATAAATCAATAAAAAAATATAAAAATCCCAGTATATTAAGATACTGAGGAATCCAGTTGC  2761
+
+Query  121   TTGATGTAAACAGACATCTCGTCACTGATGAGATAGGCAATGATCCTGTGCACGAGCTCT  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2760  TTGATGTAAACAGACATCTCGTCACTGATGAGATAGGCAATGATCCTGTGCACGAGCTCT  2701
+
+Query  181   TCGGGCAACATTCCGCTCTGGAGCGCGTGTATTTTATTGATATCTCCAAAATGTCAAATA  240
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2700  TCGGGCAACATTCCGCTCTGGAGCGCGTGTATTTTATTGATATCTCCAAAATGTCAAATA  2641
+
+Query  241   AAACCGGTAATAAATCAAATATGAAAAGTGGTAAGGGGAAAGTCTGTGGGGGGATACGTT  300
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2640  AAACCGGTAATAAATCAAATATGAAAAGTGGTAAGGGGAAAGTCTGTGGGGGGATACGTT  2581
+
+Query  301   TGCTAATGGCTTGGATGCAAAGGGTGGTGAG  331
+             |||||||||||||||||||||||||||||||
+Sbjct  2580  TGCTAATGGCTTGGATGCAAAGGGTGGTGAG  2550
+
+
+
+
+		
+
+

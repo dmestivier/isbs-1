@@ -1,0 +1,42 @@
+RID: 8R5H9Z51114	
+Job Title: NODE_155695_length_240_cov_16.989189 				
+Program: BLASTN 
+Query: NODE_155695_length_240_cov_16.989189 ID: lcl|Query_51651(dna) Length: 240
+Subject:KL561420.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2756, whole genome shotgun sequence ID: lcl|Query_51653(dna) Length: 10639
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+KL561420.1 Physarum polycephalum strain LU352 unplaced genomic...                                 0          444    444   100%  4e-128 100.00 10639      Query_51653      
+
+Alignments:
+
+>KL561420.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2756, whole genome shotgun sequence
+Sequence ID: Query_51653 Length: 10639
+Range 1: 4852 to 5091
+
+Score:444 bits(240), Expect:4e-128, 
+Identities:240/240(100%),  Gaps:0/240(0%), Strand: Plus/Plus
+
+Query  1     CTATAAGCCGTATCACACTCACACTCTCGCGCAGATGTCTCGCTGTTCGCGGTCGCGCAG  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4852  CTATAAGCCGTATCACACTCACACTCTCGCGCAGATGTCTCGCTGTTCGCGGTCGCGCAG  4911
+
+Query  61    AACCCCGACCTGCAGCACCTCGACCTCACGCAGTGCGAGCGCATTTCCGACGAGGGCGTC  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4912  AACCCCGACCTGCAGCACCTCGACCTCACGCAGTGCGAGCGCATTTCCGACGAGGGCGTC  4971
+
+Query  121   GTGAAGGTCGCGCAGGGGTGCCCGGAGCTCAGGCACATCTCGCTCGCGGAGTGCAACGTC  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  4972  GTGAAGGTCGCGCAGGGGTGCCCGGAGCTCAGGCACATCTCGCTCGCGGAGTGCAACGTC  5031
+
+Query  181   ACGGACGCGTCGATCCTCGCGCTAGGTGCCGCGGTGGACGCGCAGGGATCTGGGTATGCG  240
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5032  ACGGACGCGTCGATCCTCGCGCTAGGTGCCGCGGTGGACGCGCAGGGATCTGGGTATGCG  5091
+
+
+
+
+		
+
+
