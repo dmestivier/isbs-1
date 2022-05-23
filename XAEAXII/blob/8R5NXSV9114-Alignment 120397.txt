@@ -1,0 +1,50 @@
+RID: 8R5NXSV9114	
+Job Title: NODE_120397_length_329_cov_40.992701 				
+Program: BLASTN 
+Query: NODE_120397_length_329_cov_40.992701 ID: lcl|Query_30207(dna) Length: 329
+Subject:KL561420.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2756, whole genome shotgun sequence ID: lcl|Query_30209(dna) Length: 10639
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+KL561420.1 Physarum polycephalum strain LU352 unplaced genomic...                                 0          608    608   100%  2e-177 100.00 10639      Query_30209      
+
+Alignments:
+
+>KL561420.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2756, whole genome shotgun sequence
+Sequence ID: Query_30209 Length: 10639
+Range 1: 5114 to 5442
+
+Score:608 bits(329), Expect:2e-177, 
+Identities:329/329(100%),  Gaps:0/329(0%), Strand: Plus/Plus
+
+Query  1     TTTATCCCCTCCTACCCTCTTTTGTCTCCTCTTTTATGTCTTTTGTCTCCTATCTTTTCC  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5114  TTTATCCCCTCCTACCCTCTTTTGTCTCCTCTTTTATGTCTTTTGTCTCCTATCTTTTCC  5173
+
+Query  61    ATGCTCATTTTCTTGTAGTTGCTACCACCTGGAGACCGTGCGCCTCGCGTACTGCCGTGA  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5174  ATGCTCATTTTCTTGTAGTTGCTACCACCTGGAGACCGTGCGCCTCGCGTACTGCCGTGA  5233
+
+Query  121   GATCGGCGACGAGGCGCTACACAAGCTCGCGCGCGGGTGCCCCAACGTGCACACGCTCGA  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5234  GATCGGCGACGAGGCGCTACACAAGCTCGCGCGCGGGTGCCCCAACGTGCACACGCTCGA  5293
+
+Query  181   CTTGTCGAATTGCTCTGCGCGCATCACGCCGGAGGGCCTGCGCGTCGCCCTGCGCACGTG  240
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5294  CTTGTCGAATTGCTCTGCGCGCATCACGCCGGAGGGCCTGCGCGTCGCCCTGCGCACGTG  5353
+
+Query  241   GACGCGGCTGCAGACCCTGCGCCTTAAGGGCTTCCACCTCTCCACCGAGTCTATCATTGA  300
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5354  GACGCGGCTGCAGACCCTGCGCCTTAAGGGCTTCCACCTCTCCACCGAGTCTATCATTGA  5413
+
+Query  301   TGGCGTACACCCCTCACTGAAGGTAACCC  329
+             |||||||||||||||||||||||||||||
+Sbjct  5414  TGGCGTACACCCCTCACTGAAGGTAACCC  5442
+
+
+
+
+		
+
+
