@@ -1,0 +1,10 @@
+# blastn
+# Iteration: 0
+# Query: NODE_75731_length_561_cov_44.231225
+# RID: 8TKUSCNP11R
+# Database: n/a
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+NODE_75731_length_561_cov_44.231225	KL561189.1	99.822	561	1	0	1	561	9120	8560	0.0	1031
+
+
