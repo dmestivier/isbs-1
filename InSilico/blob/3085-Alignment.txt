@@ -1,0 +1,10 @@
+# blastn
+# Iteration: 0
+# Query: NODE_3085_length_2661_cov_147.479279
+# RID: 8TNXSD8011R
+# Database: n/a
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+NODE_3085_length_2661_cov_147.479279	KL561189.1	99.696	2628	5	3	35	2661	2664	39	0.0	4806
+
+

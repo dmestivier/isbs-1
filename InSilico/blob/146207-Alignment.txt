@@ -1,0 +1,10 @@
+# blastn
+# Iteration: 0
+# Query: NODE_146207_length_258_cov_5.152709
+# RID: 8TPK1PH6114
+# Database: n/a
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+NODE_146207_length_258_cov_5.152709	KL561189.1	99.225	258	0	2	1	258	3362	3617	4.07e-134	464
+
+
