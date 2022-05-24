@@ -13,3 +13,8 @@ On récupère les allignements sous format .fasta avec toutes les informations r
 5- On remarque que les séquences sont des fragments du scaffold NCBI KL561189.1 qui ne se chevauchent pas et qui de plus sont séparés les uns des autres 
 par des gap de quelques nucléotides). Si on les dispose tous à la suite dans un ordre précis ils recouvrent pratiquement tous les scaffolds avec
 un pourcentage d'identité entre 99.7% et 100%. 
+
+##Conclusion:
+
+L'hopital Henri Mondor a réussi à faire une bonne estimation du séquencage génomiques du blob, à travers des séquences cohérentes avec celle 
+réferencée par le NCBI.
