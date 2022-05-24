@@ -1,0 +1,42 @@
+RID: 8TMSTJ4U11R	
+Job Title: NODE_160452_length_232_cov_5.022599 				
+Program: BLASTN 
+Query: NODE_160452_length_232_cov_5.022599 ID: lcl|Query_171795(dna) Length: 232
+Subject:KL561189.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2473, whole genome shotgun sequence ID: lcl|Query_171797(dna) Length: 12300
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+KL561189.1 Physarum polycephalum strain LU352 unplaced genomic...                                 0          409    409   100%  2e-117 98.71  12300      Query_171797     
+
+Alignments:
+
+>KL561189.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2473, whole genome shotgun sequence
+Sequence ID: Query_171797 Length: 12300
+Range 1: 2877 to 3105
+
+Score:409 bits(221), Expect:2e-117, 
+Identities:229/232(99%),  Gaps:3/232(1%), Strand: Plus/Plus
+
+Query  1     GGGTGGACGGACGCATTTTTTCAAGTGACTGAGGGAGGCATGTTATTCGAGTTCAAGCAC  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2877  GGGTGGACGGACGCATTTTTTCAAGTGACTGAGGGAGGCATGTTATTCGAGTTCAAGCAC  2936
+
+Query  61    GACAACGTACGAGCatttatttttttttaaaatttactttaatttttttaatttttaatt  120
+             |||||||||||||||||||  ||||||||||||||||||||| |||||||||||||||||
+Sbjct  2937  GACAACGTACGAGCATTTA--TTTTTTTAAAATTTACTTTAA-TTTTTTAATTTTTAATT  2993
+
+Query  121   tttaatttttaattattaattattaattattaaattattaaattattaaattattaaatt  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2994  TTTAATTTTTAATTATTAATTATTAATTATTAAATTATTAAATTATTAAATTATTAAATT  3053
+
+Query  181   attaaatattaaattattaaattattaaatattaaattattaaatattaaat  232
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3054  ATTAAATATTAAATTATTAAATTATTAAATATTAAATTATTAAATATTAAAT  3105
+
+
+
+
+		
+
+
