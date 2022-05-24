@@ -1,10 +1,30 @@
-# blastn
-# Iteration: 0
-# Query: NODE_160452_length_232_cov_5.022599
-# RID: 8TSKKGS5114
-# Database: n/a
-# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
-# 1 hits found
-NODE_160452_length_232_cov_5.022599	KL561189.1	98.707	232	0	2	1	232	2877	3105	1.73e-117	409
+Query: NODE_160452_length_232_cov_5.022599 Query ID: lcl|Query_6577 Length: 232
+
+
+>KL561189.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2473, whole genome shotgun sequence
+Sequence ID: Query_6579 Length: 12300
+Range 1: 2877 to 3105
+
+Score:409 bits(221), Expect:2e-117, 
+Identities:229/232(99%),  Gaps:3/232(1%), Strand: Plus/Plus
+
+Query  1     GGGTGGACGGACGCATTTTTTCAAGTGACTGAGGGAGGCATGTTATTCGAGTTCAAGCAC  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2877  GGGTGGACGGACGCATTTTTTCAAGTGACTGAGGGAGGCATGTTATTCGAGTTCAAGCAC  2936
+
+Query  61    GACAACGTACGAGCatttatttttttttaaaatttactttaatttttttaatttttaatt  120
+             |||||||||||||||||||  ||||||||||||||||||||| |||||||||||||||||
+Sbjct  2937  GACAACGTACGAGCATTTA--TTTTTTTAAAATTTACTTTAA-TTTTTTAATTTTTAATT  2993
+
+Query  121   tttaatttttaattattaattattaattattaaattattaaattattaaattattaaatt  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2994  TTTAATTTTTAATTATTAATTATTAATTATTAAATTATTAAATTATTAAATTATTAAATT  3053
+
+Query  181   attaaatattaaattattaaattattaaatattaaattattaaatattaaat  232
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3054  ATTAAATATTAAATTATTAAATTATTAAATATTAAATTATTAAATATTAAAT  3105
+
+
+
 
 

@@ -1,10 +1,30 @@
-# blastn
-# Iteration: 0
-# Query: NODE_160809_length_231_cov_57.517045
-# RID: 8TPSW6GC11R
-# Database: n/a
-# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
-# 1 hits found
-NODE_160809_length_231_cov_57.517045	KL561189.1	99.548	221	0	1	1	221	6745	6964	2.88e-115	401
+Query: NODE_160809_length_231_cov_57.517045 Query ID: lcl|Query_48107 Length: 231
+
+
+>KL561189.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2473, whole genome shotgun sequence
+Sequence ID: Query_48109 Length: 12300
+Range 1: 6745 to 6964
+
+Score:401 bits(217), Expect:3e-115, 
+Identities:220/221(99%),  Gaps:1/221(0%), Strand: Plus/Plus
+
+Query  1     Actttcctctctctccgtttttccctttcctcctctaccccccctttttactttttattt  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6745  ACTTTCCTCTCTCTCCGTTTTTCCCTTTCCTCCTCTACCCCCCCTTTTTACTTTTTATTT  6804
+
+Query  61    attttttatttatctttatCTTACATTAAATATAGCTCTTCCCTCAGATATTGAGAGTTT  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6805  ATTTTTTATTTATCTTTATCTTACATTAAATATAGCTCTTCCCTCAGATATTGAGAGTTT  6864
+
+Query  121   CTCCGCAGAGATCCTGCTACTAGAGCGAATCCCATACCACAAAAATATTGTATGTCtttt  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6865  CTCCGCAGAGATCCTGCTACTAGAGCGAATCCCATACCACAAAAATATTGTATGTCTTTT  6924
+
+Query  181   tttttttcttttctttttttttttttttttttttttttttt  221
+             |||||||||||| ||||||||||||||||||||||||||||
+Sbjct  6925  TTTTTTTCTTTT-TTTTTTTTTTTTTTTTTTTTTTTTTTTT  6964
+
+
+
 
 
