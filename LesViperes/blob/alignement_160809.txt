@@ -1,0 +1,42 @@
+RID: 8TNWUX3J11R	
+Job Title: NODE_160809_length_231_cov_57.517045 				
+Program: BLASTN 
+Query: NODE_160809_length_231_cov_57.517045 ID: lcl|Query_481901(dna) Length: 231
+Subject:KL561189.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2473, whole genome shotgun sequence ID: lcl|Query_481903(dna) Length: 12300
+	
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E    Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value  Ident  Len        Accession        
+KL561189.1 Physarum polycephalum strain LU352 unplaced genomic...                                 0          401    401   95%   3e-115 99.55  12300      Query_481903     
+
+Alignments:
+
+>KL561189.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2473, whole genome shotgun sequence
+Sequence ID: Query_481903 Length: 12300
+Range 1: 6745 to 6964
+
+Score:401 bits(217), Expect:3e-115, 
+Identities:220/221(99%),  Gaps:1/221(0%), Strand: Plus/Plus
+
+Query  1     Actttcctctctctccgtttttccctttcctcctctaccccccctttttactttttattt  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6745  ACTTTCCTCTCTCTCCGTTTTTCCCTTTCCTCCTCTACCCCCCCTTTTTACTTTTTATTT  6804
+
+Query  61    attttttatttatctttatCTTACATTAAATATAGCTCTTCCCTCAGATATTGAGAGTTT  120
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6805  ATTTTTTATTTATCTTTATCTTACATTAAATATAGCTCTTCCCTCAGATATTGAGAGTTT  6864
+
+Query  121   CTCCGCAGAGATCCTGCTACTAGAGCGAATCCCATACCACAAAAATATTGTATGTCtttt  180
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  6865  CTCCGCAGAGATCCTGCTACTAGAGCGAATCCCATACCACAAAAATATTGTATGTCTTTT  6924
+
+Query  181   tttttttcttttctttttttttttttttttttttttttttt  221
+             |||||||||||| ||||||||||||||||||||||||||||
+Sbjct  6925  TTTTTTTCTTTT-TTTTTTTTTTTTTTTTTTTTTTTTTTTT  6964
+
+
+
+
+		
+
+

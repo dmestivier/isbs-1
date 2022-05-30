@@ -1,0 +1,10 @@
+# blastn
+# Iteration: 0
+# Query: NODE_19223_length_1395_cov_64.292537
+# RID: 8TMNXFX2114
+# Database: n/a
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+NODE_19223_length_1395_cov_64.292537	KL561189.1	99.570	1395	0	3	1	1395	9364	10752	0.0	2538
+
+

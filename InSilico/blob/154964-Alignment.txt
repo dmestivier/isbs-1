@@ -1,0 +1,34 @@
+Query: NODE_154964_length_241_cov_66.758065 Query ID: lcl|Query_30979 Length: 241
+
+
+>KL561189.1 Physarum polycephalum strain LU352 unplaced genomic scaffold Scaffold2473, whole genome shotgun sequence
+Sequence ID: Query_30981 Length: 12300
+Range 1: 12003 to 12243
+
+Score:446 bits(241), Expect:1e-128, 
+Identities:241/241(100%),  Gaps:0/241(0%), Strand: Plus/Plus
+
+Query  1      GGTTTTGGAGTGAGTATTTGGATAAGCACCCTATTATGAATACACACCACGCGATTATCA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12003  GGTTTTGGAGTGAGTATTTGGATAAGCACCCTATTATGAATACACACCACGCGATTATCA  12062
+
+Query  61     CATATCCCAACACAGCTAAAACACAAGATTCCATTTAAATCTTGCATTTTTCTCCAActt  120
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12063  CATATCCCAACACAGCTAAAACACAAGATTCCATTTAAATCTTGCATTTTTCTCCAACTT  12122
+
+Query  121    tccctcttacactccttccctctttatgttctcttctccccatccctttctcctctctcc  180
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12123  TCCCTCTTACACTCCTTCCCTCTTTATGTTCTCTTCTCCCCATCCCTTTCTCCTCTCTCC  12182
+
+Query  181    tctctctcctctctcctctctcctctcttctcctctcttctcctctcttctcctctcttc  240
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12183  TCTCTCTCCTCTCTCCTCTCTCCTCTCTTCTCCTCTCTTCTCCTCTCTTCTCCTCTCTTC  12242
+
+Query  241    t  241
+              |
+Sbjct  12243  T  12243
+
+
+
+
+
